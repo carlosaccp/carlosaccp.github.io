@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Carlos A.C.C. Perello"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,65 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Heya! I'm Carlos, a 3rd & final year Mathematics student at [Imperial College London](https://www.imperial.ac.uk/). Next year, I will be pursuing the [MSc in Mathematical Sciences](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-sciences) at the [University of Oxford](https://www.ox.ac.uk/). I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin. I grew up in Madrid, Spain and I am currently living in London, United Kingdom. I am a proud Portuguese and Spanish dual citizen!
 
-A data-driven personal website
+Mathematical Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I have many interests in Mathematics but, roughly speaking, I am mainly interested in Probability, Analysis, Numerical Analysis and Mathematical Physics. Some topics I enjoy have spent some time thinking about include [Random Matrix Theory](https://en.wikipedia.org/wiki/Random_matrix), [Interacting Particle Systems](https://en.wikipedia.org/wiki/Interacting_particle_system), [Stochastic Differential Equations](https://en.wikipedia.org/wiki/Stochastic_differential_equation), [Partial Differential Equations](https://en.wikipedia.org/wiki/Partial_differential_equation) and their respective applications to Data Science.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am planning to learn more about the [KPZ Universality Class](https://en.wikipedia.org/wiki/KPZ_universality_class) and [Integrable Probability](https://en.wikipedia.org/wiki/Integrable_probability) in the near future. Furthermore, I am counting on taking classes on [Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory), [Hydrodynamic Limits](https://en.wikipedia.org/wiki/Hydrodynamic_limit) and [Concentration Inequalities](https://en.wikipedia.org/wiki/Concentration_inequality). Nevertheless, I am always open to new ideas and suggestions! I was recently exposed to [Ramsay Theory](https://en.wikipedia.org/wiki/Ramsey_theory) and I am keen to learn more about it.
 
-Getting started
+Short Vita
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Education
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- 2023-2024: MSc in Mathematical Sciences at the University of Oxford
+- 2020-2023: BSc in Mathematics at Imperial College London (Expected First Class Honours, Dean's List)
+- 2019-2020: BSc in Physics at Imperial College London (Transferred to Mathematics)
+- 2017-2019: A-Levels at [King's College Madrid](https://www.kingscollegeschools.org/) (A\*A\*A\*A\*B in Mathematics, Further Mathematics, Physics, Spanish and Chemistry respectively)
 
-Create content & metadata
+Research, Teaching & Work Experience
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- Jun 2023 - Present: Research Intern at [Imperial College London](https://www.imperial.ac.uk/)
+- Feb 2023 - Apr 2023: Teaching Assistant for Numerical Analysis at [Imperial College London](https://www.imperial.ac.uk/)
+- Oct 2022 - Apr 2023: Peer Tutor at [Imperial College London](https://www.imperial.ac.uk/)
+- Jul 2022 - Aug 2022: Research Intern at the [Massachusetts Institute of Technology](https://www.mit.edu/)
+- Jul 2021 - Sep 2021: Software Engineering Intern at [Arm](https://www.arm.com/)
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Awards & Scholarships
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- Jul 2023: Research Grant at [Imperial College London](https://www.imperial.ac.uk/)
+- Mar 2022: Turing Scheme Grant for Research Internship at the [Massachusetts Institute of Technology](https://www.mit.edu/)
+- Sep 2022: Dean's List at [Imperial College London](https://www.imperial.ac.uk/)
+- Jul 2019: Nexalia Award & Sir Roger Fry Scholarship at [King's College Madrid](https://www.kingscollegeschools.org/)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Volunteering
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Sep 2022 - Present: President of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
+- Sep 2022 - Present: Events officer at Imperial College's Portuguese-Speaking Society
+- Sep 2021 - Sep 2022: Secretary of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
+- Sep 2021 - Sep 2022: Vice-President of Imperial College's Spanish Society
+- Sep 2020 - Sep 2022: Mathematics cohort academic representative
+
+Languages (Programming & Natural)
+------
+- Portuguese (Native)
+- Spanish (Native)
+- English (Fluent)
+- Catalan (Advanced)
+- French (Intermediate)
+- Japanese (Beginner)
+
+Honorable mentions
+======
+Some of the people I have had the pleasure to meet and have helped me to become the mathematician I am today are listed below. I am extremely grateful for their support and guidance. I am also thankful to all the people who have assisted me along the way and I have not mentioned here.
+
+- [Prof Grigorios Pavliotis](https://www.imperial.ac.uk/people/g.pavliotis) (Imperial College London)
+- [Prof Philip Ernst] (https://www.imperial.ac.uk/people/p.ernst) (Imperial College London)
+- [Dr Oliver Ratmann] (https://www.imperial.ac.uk/people/o.ratmann) (Imperial College London)
+- [Dr Ömer Deniz Akyildiz](https://akyildiz.me/) (Imperial College London)
+- [Dr Francesco Sanna Passino](https://fraspass.github.io/) (Imperial College London)
+- [Dr Promit Ghosal] (https://www.promit-ghosal.com/) (MIT)
+- [Dr Dan Mikulincer] (https://www.wisdom.weizmann.ac.il/~danmi/) (MIT)
+- [Dr Yair Shenfeld] (https://www.yairshenfeld.com/) (MIT)
+- [Prof Patrícia Gonçalves] (https://patriciamath.wixsite.com/patricia) (IST Lisbon)
