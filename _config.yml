@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Carlos A.C.C. Perello / Personal Website"
+title                    : "Carlos A.C.C. Perello"
 title_separator          : "-"
 name                     : &name "Carlos A.C.C. Perello"
 description              : &description "Mathematician"
