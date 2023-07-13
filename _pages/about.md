@@ -20,6 +20,7 @@ I am planning to learn more about the [KPZ Universality Class](https://en.wikipe
 
 Short Vita
 ======
+
 Education
 ------
 - 2023-2024: MSc in Mathematical Sciences at the University of Oxford
