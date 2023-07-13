@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-GB"
 title                    : "Carlos A.C.C. Perello"
-title_separator          : "-"
-name                     : &name "Carlos A.C.C. Perello"
-description              : &description "Mathematician"
+title_separator          : ""
+name                     : &name ""
+description              : &description "Mathematics Scholar"
 url                      : https://carlosaccp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carlosaccp/carlosaccp.github.io"
