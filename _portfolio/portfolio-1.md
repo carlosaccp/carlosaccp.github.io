@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fitting Hawkes processes to London Santander bike-sharing data"
+excerpt: "Second year project at Imperial College London, supervised by [Dr Francesco Sanna Passino](https://fraspass.github.io/)."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project, we (a group of 5 students led my Mathieu Deschenes and myself) fitted Self-Exciting and Mutually-Exciting Hawkes processes to London Santander bike-sharing data. A short abstract of the project is given below:
+
+In this report, we introduce the theory of Self-Exciting (SE) and Mutually Exciting (ME) point processes, which are powerful mathematical concepts with a wide range of applications across areas such a earthquake modelling and finance. We apply the theory to formulate 5 models describing Santander cycle hires from stations across London, with the model making use of both SE and ME behaviour demonstrating excellent performance. For each model, we derive a recursive form for the log-likelihood which allows for fast computation of optimal parameters via maximum likelihood estimation, using nonlinear optimisation and the Nelder-Mead algorithm. Finally, improvements to these models and other ways to measure their goodness of fit are discussed. Applications for the successful models include optimal bike allocation and re-balancing. Additionally, the theoretical results are general enough to be applicable to any system which might demonstrate SE or ME behaviour. 
+
+The repository for the code written for this project is available [here](https://github.com/carlosaccp/Santander-SE-ME) alongside with the final report, which can be found through [this link](https://github.com/carlosaccp/Santander-SE-ME/blob/main/report.pdf).
+
