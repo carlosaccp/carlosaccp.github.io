@@ -21,7 +21,7 @@ I am planning to learn more about the [KPZ Universality Class](https://en.wikipe
 Short Vita
 ======
 Education
-----
+------
 - 2023-2024: MSc in Mathematical Sciences at the University of Oxford
 - 2020-2023: BSc in Mathematics at Imperial College London (Expected First Class Honours, Dean's List)
 - 2019-2020: BSc in Physics at Imperial College London (Transferred to Mathematics)
