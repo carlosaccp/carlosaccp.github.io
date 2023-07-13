@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "UTA for MATH50003 Numerical Analysis"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Imperial College London, Department of Mathematics"
+date: 01-03-2023
+location: "London, England"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was UTA for MATH50003 Numerical Analysis at Imperial College London, a 2nd year undergraduate course led by [Dr Sheehan Olver](https://www.ma.imperial.ac.uk/~solver/). I attended the weekly problems classes and helped students with their problems, especially with the programming (Julia) part. I also marked the mock exam for said course. More information can be found on the course's [GitHub page](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/tree/main)
 
 Heading 1
 ======
