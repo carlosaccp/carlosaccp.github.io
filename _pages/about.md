@@ -16,7 +16,7 @@ Mathematical Interests
 ======
 I have many interests in Mathematics but, roughly speaking, I am mainly drawn to Probability, Analysis, Numerical Analysis and Mathematical Physics. Some topics I have spent some time thinking about include [Random Matrix Theory](https://en.wikipedia.org/wiki/Random_matrix), [Interacting Particle Systems](https://en.wikipedia.org/wiki/Interacting_particle_system), [Stochastic Differential Equations](https://en.wikipedia.org/wiki/Stochastic_differential_equation), [Partial Differential Equations](https://en.wikipedia.org/wiki/Partial_differential_equation) and their respective applications to Data Science.
 
-I am planning to learn more about the [KPZ Universality Class](https://en.wikipedia.org/wiki/KPZ_universality_class) and [Integrable Probability](https://en.wikipedia.org/wiki/Integrable_probability) in the near future. Furthermore, I am counting on taking classes on [Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory), [Hydrodynamic Limits](https://en.wikipedia.org/wiki/Hydrodynamic_limit) and [Concentration Inequalities](https://en.wikipedia.org/wiki/Concentration_inequality). Nevertheless, I am always open to new ideas and suggestions! For example, I was recently exposed to [Ramsay Theory](https://en.wikipedia.org/wiki/Ramsey_theory) and I am keen to learn more about it.
+I am planning to learn more about the [KPZ Universality Class](https://en.wikipedia.org/wiki/KPZ_universality_class) and [Integrable Probability](https://en.wikipedia.org/wiki/Integrable_probability) in the near future. Furthermore, I am counting on taking classes on [Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory), [Hydrodynamic Limits](https://en.wikipedia.org/wiki/Hydrodynamic_limit) and [Concentration Inequalities](https://en.wikipedia.org/wiki/Concentration_inequality). Nevertheless, I am always open to new ideas and suggestions! For example, I was recently exposed to [Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory) and I am keen to learn more about it.
 
 Short Vita
 ======
@@ -51,7 +51,7 @@ Volunteering
 - Sep 2021 - Sep 2022: Vice-President of Imperial College's Spanish Society
 - Sep 2020 - Sep 2022: Mathematics cohort academic representative
 
-Languages (Programming & Natural)
+Languages (Natural & Programming)
 ------
 - Portuguese (Native)
 - Spanish (Native)
@@ -59,6 +59,12 @@ Languages (Programming & Natural)
 - Catalan (Advanced)
 - French (Intermediate)
 - Japanese (Beginner)
+
+- Python
+- Julia
+- MATLAB
+- C++ (In progress)
+- JavaScript
 
 Mentors
 ======
