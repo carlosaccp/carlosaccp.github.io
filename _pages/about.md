@@ -47,7 +47,6 @@ Conferences & Workshops
 
 Awards & Scholarships
 ------
-- Jul 2023: Research Grant at [Imperial College London](https://www.imperial.ac.uk/)
 - Mar 2022: Turing Scheme Grant for Research Internship at the [Massachusetts Institute of Technology](https://www.mit.edu/)
 - Sep 2022: Dean's List at [Imperial College London](https://www.imperial.ac.uk/)
 - Jul 2019: Nexalia Award & Sir Roger Fry Scholarship at [King's College Madrid](https://www.kingscollegeschools.org/)
