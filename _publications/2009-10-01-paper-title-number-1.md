@@ -3,7 +3,7 @@ title: "Regularised B-splines projected Gaussian Process priors to estimate time
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this paper we fit beta splines to COVID-19 mortality data for each US state and use the fitted curves to estimate future deaths.'
-date: 06-12-2001
+date: 06-12-2021
 venue: 'Bayesian Analysis (To appear)'
 paperurl: 'https://arxiv.org/abs/2106.12360'
 citation: 'Monod, M., Blenkinsop, A., Brizzi, A., Chen, Y., Perello, C. C. C., Jogarah, V., Wang, Y., Flaxman, S., Bhatt, S., & Ratmann, O. (2021). Regularised B-splines projected Gaussian Process priors to estimate time-trends of age-specific COVID-19 deaths related to vaccine roll-out.'
