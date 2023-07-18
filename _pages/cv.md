@@ -11,9 +11,6 @@ redirect_from:
 
 My full CV is available upon request; I am reachable via my email - cac19 (at) ic (dot) ac (dot) uk. Here is a brief overview of what I've done so far: 
 
-Short Vita
-======
-
 Education
 ------
 - 2023-2024: MSc in Mathematical Sciences at the University of Oxford
