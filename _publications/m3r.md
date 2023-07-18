@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/m3r
 excerpt: 'This paper, which stemmed out of my BSc project, introduces a new adaptive importance sampling algorithm that used adaptive optimisation to adapt the proposal distribution.'
 date: 18-07-2023
-venue: 'Submitted'
+venue: 'arXiv & submitted for publication'
 paperurl: 'TBA'
 citation: 'C. C. Perello, C. A., Akyildiz, Ö. D. (2021). Adaptively Optimised Adaptive Importance Samplers.'
 ---
