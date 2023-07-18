@@ -14,4 +14,4 @@ We introduce a new class of adaptive importance samplers leveraging adaptive opt
 
 [Download paper here](tba)
 
-Fun fact: One of the figures generated (but now shown) in the paper is this website's favicon!
+Fun fact: One of the figures generated (but now shown) in the paper is this website's [favicon](images/website_logo.png)!
