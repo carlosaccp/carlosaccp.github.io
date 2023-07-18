@@ -36,6 +36,15 @@ Research, Teaching & Work Experience
 - Jul 2022 - Aug 2022: Research Intern at the [Massachusetts Institute of Technology](https://www.mit.edu/)
 - Jul 2021 - Sep 2021: Software Engineering Intern at [Arm](https://www.arm.com/)
 
+Conferences & Workshops
+------
+
+- Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023); attended and volunteered. [Conference page](https://www.spa2023.org/)
+- Jul 2023: Attended the CNRS-ICL Workshop: Mean field limits for interacting particle systems: uniform propagation of chaos, phase transitions and applications; attended. [Conference page](https://www.imperial.ac.uk/events/163582/cnrs-icl-workshop-mean-field-limits-for-interacting-particle-systems-uniform-propagation-of-chaos-phase-transitions-and-applications/)
+- Jul 2022: Advances in Mathematical Physics: A Conference in Honor of Elliott H. Lieb on his 90th Birthday; attended. [Conference page](https://www.math.harvard.edu/event/conference-mathematics-of-statistical-mechanics-and-quantum-physics/)
+
+
+
 Awards & Scholarships
 ------
 - Jul 2023: Research Grant at [Imperial College London](https://www.imperial.ac.uk/)
