@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Carlos A.C.C. Perello"
+title: "Home"
 excerpt: "Math student"
 author_profile: true
 redirect_from: 
