@@ -2,9 +2,9 @@
 title: "UTA for MATH50003 Numerical Analysis"
 collection: teaching
 type: "Undergraduate Teaching Assistant"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/uta-math50003
 venue: "Imperial College London, Department of Mathematics"
-date: 01-03-2023
+date: 01/03/2023 - 01/05/2023
 location: "London, England"
 ---
 

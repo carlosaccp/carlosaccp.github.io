@@ -1,10 +1,10 @@
 ---
-title: "Peer tutor"
+title: "Peer Tutor"
 collection: teaching
-type: "Peer tutor"
-permalink: /teaching/2014-spring-teaching-1
+type: "Peer Tutor"
+permalink: /teaching/peer-tutor
 venue: "Imperial College London, Department of Mathematics"
-date: 01-10-2022
+date: 01/10/2022 - 01/06/2023
 location: "London, England"
 ---
 
