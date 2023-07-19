@@ -1,7 +1,7 @@
 ---
 title: "Peer tutor"
 collection: teaching
-type: "Tutorial"
+type: "Peer tutor"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Imperial College London, Department of Mathematics"
 date: 01-10-2022
