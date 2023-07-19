@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Carlos, a 3rd & final year Mathematics student at [Imperial College London](https://www.imperial.ac.uk/). Next year, I will be pursuing the [MSc in Mathematical Sciences](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-sciences) at the [University of Oxford](https://www.ox.ac.uk/). After that, I am planning to do a PhD in Mathematics.
 
-I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin. I grew up in Madrid, and I am currently living in London. I am a Portuguese and Spanish dual citizen.
+I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin. I grew up in Madrid, and I am currently living in London. I am a Portuguese and Spanish dual citizen. Due to some differences in Spanish & Portuguese naming conventions, I also use the name Carlos Alberto Perello Mota Pinto.
 
 Mathematical Interests
 ======
