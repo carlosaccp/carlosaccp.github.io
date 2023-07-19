@@ -4,7 +4,7 @@ excerpt: "Second year project at Imperial College London, supervised by [Dr Fran
 collection: portfolio
 ---
 
-In this project, we (a group of 5 students led my Mathieu Deschenes and myself) fitted Self-Exciting and Mutually-Exciting Hawkes processes to London Santander bike-sharing data. A short abstract of the project is given below:
+In this project, we (a group of 5 students led by Mathieu Deschenes and myself) fitted Self-Exciting and Mutually-Exciting Hawkes processes to London Santander bike-sharing data. A short abstract of the project is given below:
 
 In this report, we introduce the theory of Self-Exciting (SE) and Mutually Exciting (ME) point processes, which are powerful mathematical concepts with a wide range of applications across areas such a earthquake modelling and finance. We apply the theory to formulate 5 models describing Santander cycle hires from stations across London, with the model making use of both SE and ME behaviour demonstrating excellent performance. For each model, we derive a recursive form for the log-likelihood which allows for fast computation of optimal parameters via maximum likelihood estimation, using nonlinear optimisation and the Nelder-Mead algorithm. Finally, improvements to these models and other ways to measure their goodness of fit are discussed. Applications for the successful models include optimal bike allocation and re-balancing. Additionally, the theoretical results are general enough to be applicable to any system which might demonstrate SE or ME behaviour. 
 
