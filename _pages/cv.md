@@ -51,7 +51,7 @@ Languages (Natural & Programming)
 ------
 - Portuguese (Native)
 - Spanish (Native)
-- English (Fluent)
+- English (Native)
 - Catalan (Advanced)
 - French (Intermediate)
 - Japanese (Beginner)
