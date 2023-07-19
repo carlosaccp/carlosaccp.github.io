@@ -16,4 +16,4 @@ Here are some [slides](../files/M3R__Carlos__presentation.pdf) I made when prese
 
 [Download paper here](https://arxiv.org/abs/2307.09341)
 
-Fun fact: One of the figures generated (but now shown) in the paper is this website's [favicon](../images/website_logo.png)!
+Fun fact: One of the figures generated (but not shown) in the paper is this website's [favicon](../images/website_logo.png)!
