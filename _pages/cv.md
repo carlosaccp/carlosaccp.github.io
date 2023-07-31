@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available upon request; I am reachable via my email - cac19 (at) ic (dot) ac (dot) uk. Here is a brief overview of what I've done so far: 
+My full CV is available upon request; I am reachable via my email - cac19 (at) imperial (dot) ac (dot) uk. Here is a brief overview of what I've done so far: 
 
 Education
 ------
@@ -21,7 +21,7 @@ Education
 Research, Teaching & Work Experience
 ------
 - Jun 2023 - Present: Research Intern at [Imperial College London](https://www.imperial.ac.uk/)
-- Feb 2023 - Apr 2023: Teaching Assistant for Numerical Analysis at [Imperial College London](https://www.imperial.ac.uk/)
+- Feb 2023 - Apr 2023: Numerical Analysis Undergraduate Teaching Assistant at [Imperial College London](https://www.imperial.ac.uk/)
 - Oct 2022 - Apr 2023: Peer Tutor at [Imperial College London](https://www.imperial.ac.uk/)
 - Jul 2022 - Aug 2022: Research Intern at the [Massachusetts Institute of Technology](https://www.mit.edu/)
 - Jul 2021 - Sep 2021: Software Engineering Intern at [Arm](https://www.arm.com/)
@@ -29,7 +29,7 @@ Research, Teaching & Work Experience
 Conferences & Workshops
 ------
 
-- Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023). Happening at the University of Lisbon, attending and volunteering. [Conference page](https://www.spa2023.org/)
+- Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023). Held at the University of Lisbon, attended and volunteered. Kindly funded by the [Imperial College Faculty of Natural Sciences Dean's Fund] (https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/). [Conference page](https://www.spa2023.org/)
 - Jul 2023: CNRS-ICL Workshop: Mean field limits for interacting particle systems: uniform propagation of chaos, phase transitions and applications. Held at Imperial College London, attended. [Conference page](https://www.imperial.ac.uk/events/163582/cnrs-icl-workshop-mean-field-limits-for-interacting-particle-systems-uniform-propagation-of-chaos-phase-transitions-and-applications/)
 - Jul 2022: Advances in Mathematical Physics: A Conference in Honor of Elliott H. Lieb on his 90th Birthday. Held at Harvard University, attended. [Conference page](https://www.math.harvard.edu/event/conference-mathematics-of-statistical-mechanics-and-quantum-physics/)
 
