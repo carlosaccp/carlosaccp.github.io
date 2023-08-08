@@ -55,7 +55,6 @@ Languages (Natural & Programming)
 - Catalan (Advanced)
 - French (Intermediate)
 - Japanese (Beginner)
-
 - Python
 - Julia
 - MATLAB
