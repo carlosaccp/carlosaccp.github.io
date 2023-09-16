@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available upon request; I am reachable via my email - cac19 (at) imperial (dot) ac (dot) uk. Here is a brief overview of what I've done so far: 
+My full CV is available upon request; I am reachable via my email - carlosapmp (at) gmail (dot) com. Here is a brief overview of what I've done so far: 
 
 Education
 ------
-- 2023-2024: MSc in Mathematical Sciences at the University of Oxford
+- 2023-2024: MSc in Mathematical Sciences at the Oxford University
 - 2020-2023: BSc in Mathematics at Imperial College London (Expected First Class Honours, Dean's List)
 - 2019-2020: BSc in Physics at Imperial College London (Transferred to Mathematics)
 - 2017-2019: A-Levels at [King's College Madrid](https://www.kingscollegeschools.org/) (A\*A\*A\*A\*B in Mathematics, Further Mathematics, Physics, Spanish and Chemistry respectively)
