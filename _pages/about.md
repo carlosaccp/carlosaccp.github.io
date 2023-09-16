@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Carlos, a 3rd & final year Mathematics student at Imperial College London. This October, I will start reading the [MSc in Mathematical Sciences](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-sciences) at the University of Oxford. After that, I am planning to do a PhD in Mathematics.
+Hi! I'm Carlos, an MSc in Mathematical Sciences student at Oxford University. Prior to coming to Oxford, I completed my undergraduate degree at Imperial College London, also in Mathematics. After my MSc, I am planning to do a PhD in Mathematics.
 
 I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin. I grew up in Madrid, and I am currently living in London. I am a Portuguese and Spanish dual citizen. 
 
