@@ -24,8 +24,6 @@ Mentors
 ======
 Some of the people I have had the pleasure to meet and have helped me to become the mathematician I am today are listed below. I am extremely grateful for their support and guidance. I am also thankful to all the people who have assisted me along the way and I have not mentioned here.
 
-- [Prof Grigorios Pavliotis](https://www.imperial.ac.uk/people/g.pavliotis) (Imperial College London)
-- [Prof Philip Ernst](https://www.imperial.ac.uk/people/p.ernst) (Imperial College London)
 - [Dr Oliver Ratmann](https://www.imperial.ac.uk/people/o.ratmann) (Imperial College London)
 - [Dr Ömer Deniz Akyildiz](https://akyildiz.me/) (Imperial College London)
 - [Dr Francesco Sanna Passino](https://fraspass.github.io/) (Imperial College London)
