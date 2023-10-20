@@ -14,7 +14,7 @@ My full CV is available upon request; I am reachable via my email - carlos (dot)
 Education
 ------
 - 2023-2024: MSc in Mathematical Sciences at the the University of Oxford (Reuben College)
-- 2020-2023: BSc in Mathematics at Imperial College London (Expected First Class Honours, Dean's List)
+- 2020-2023: BSc in Mathematics at Imperial College London (First Class Honours, top 5%)
 - 2019-2020: BSc in Physics at Imperial College London (Transferred to Mathematics)
 - 2017-2019: A-Levels at [King's College Madrid](https://www.kingscollegeschools.org/) (A\*A\*A\*A\*B in Mathematics, Further Mathematics, Physics, Spanish and Chemistry respectively)
 
