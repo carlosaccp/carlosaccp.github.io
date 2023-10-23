@@ -47,7 +47,7 @@ Volunteering
 - Aug 2021 - Aug 2022: Events officer at Imperial College's Portuguese-Speaking Society
 - Aug 2021 - Aug 2022: Secretary of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
 - Aug 2021 - Aug 2022: Vice-President of Imperial College's Spanish Society
-- Sep 2020 - Aug 2022: Mathematics cohort academic representative
+- Sep 2020 - Sep 2022: Mathematics cohort academic representative
 
 Languages (Natural & Programming)
 ------
