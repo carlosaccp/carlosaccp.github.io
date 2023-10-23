@@ -14,7 +14,7 @@ My full CV is available upon request; I am reachable via my email - carlos (dot)
 Education
 ------
 - 2023-2024: MSc in Mathematical Sciences at the the University of Oxford (Reuben College)
-- 2020-2023: BSc in Mathematics at Imperial College London (First Class Honours, top 5%)
+- 2020-2023: BSc in Mathematics at Imperial College London (First Class Honours, top 5% of cohort)
 - 2019-2020: BSc in Physics at Imperial College London (Transferred to Mathematics)
 - 2017-2019: A-Levels at [King's College Madrid](https://www.kingscollegeschools.org/) (A\*A\*A\*A\*B in Mathematics, Further Mathematics, Physics, Spanish and Chemistry respectively)
 
@@ -28,7 +28,7 @@ Research, Teaching & Work Experience
 
 Conferences & Workshops
 ------
-- Jan 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems. Held at CIRM (Marseille). [Conference page](https://conferences.cirm-math.fr/2988.html)
+- Jan 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems. To be held at CIRM (Marseille). [Conference page](https://conferences.cirm-math.fr/2988.html)
 - Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023). Held at the University of Lisbon, attended and volunteered. Kindly funded by the [Imperial College Faculty of Natural Sciences Dean's Fund](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/). [Conference page](https://www.spa2023.org/)
 - Jul 2023: CNRS-ICL Workshop: Mean field limits for interacting particle systems: uniform propagation of chaos, phase transitions and applications. Held at Imperial College London, attended. [Conference page](https://www.imperial.ac.uk/events/163582/cnrs-icl-workshop-mean-field-limits-for-interacting-particle-systems-uniform-propagation-of-chaos-phase-transitions-and-applications/)
 - Jul 2022: Advances in Mathematical Physics: A Conference in Honor of Elliott H. Lieb on his 90th Birthday. Held at Harvard University, attended. [Conference page](https://www.math.harvard.edu/event/conference-mathematics-of-statistical-mechanics-and-quantum-physics/)
@@ -42,8 +42,8 @@ Awards & Scholarships
 
 Volunteering
 ------
-- Aug 2022: Conference helper at the 43rd conference on Stochastic Processes and their Applications (SPA 2023).
-- Aug 2021 - Aug 2022: President of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
+- Aug 2023: Conference helper at the 43rd conference on Stochastic Processes and their Applications (SPA 2023)
+- Aug 2022 - Aug 2023: President of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
 - Aug 2021 - Aug 2022: Events officer at Imperial College's Portuguese-Speaking Society
 - Aug 2021 - Aug 2022: Secretary of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
 - Aug 2021 - Aug 2022: Vice-President of Imperial College's Spanish Society
