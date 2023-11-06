@@ -20,7 +20,7 @@ Education
 
 Research, Teaching & Work Experience
 ------
-- Jun 2023 - Present: Research Intern at [Imperial College London](https://www.imperial.ac.uk/)
+- Jun 2023 - Oct 2023: Research Intern at [Imperial College London](https://www.imperial.ac.uk/)
 - Feb 2023 - Apr 2023: Numerical Analysis Undergraduate Teaching Assistant at [Imperial College London](https://www.imperial.ac.uk/)
 - Oct 2022 - Apr 2023: Peer Tutor at [Imperial College London](https://www.imperial.ac.uk/)
 - Jul 2022 - Aug 2022: Research Intern at the [Massachusetts Institute of Technology](https://www.mit.edu/)
