@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Carlos, an MSc in Mathematical Sciences (OMMS) student at the University of Oxford. Prior to coming to Oxford, I completed my undergraduate degree at Imperial College London, also in Mathematics.
 
-I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin. I grew up in Madrid, and I am currently living in London. I am a Portuguese and Spanish dual citizen. 
+I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin. I grew up in Madrid, and I am currently living in Oxford. I am a Portuguese and Spanish dual citizen. 
 
 (Due to some differences in Spanish & Portuguese naming conventions, I also use the name Carlos Alberto Perello Mota Pinto.)
 
