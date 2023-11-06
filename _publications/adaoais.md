@@ -13,7 +13,6 @@ We introduce a new class of adaptive importance samplers leveraging adaptive opt
 
 Here are some [slides](../files/M3R__Carlos__presentation.pdf) I made when presenting this as my BSc project.
 
-
 [Download paper here](https://arxiv.org/abs/2307.09341)
 
 Fun fact: One of the figures generated (but not shown) in the paper is this website's [favicon](../images/website_logo.png)!
