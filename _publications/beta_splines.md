@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/beta_splines
 excerpt: 'In this paper we fit beta splines to COVID-19 mortality data for each US state and use the fitted curves to estimate future deaths.'
 date: 06-12-2021
-venue: 'To appear in Bayesian Analysis'
+venue: 'Appeared in Bayesian Analysis on Sep 2023'
 paperurl: 'https://arxiv.org/abs/2106.12360'
 citation: 'Monod, M., Blenkinsop, A., Brizzi, A., Chen, Y., Perello, C. C. C., Jogarah, V., Wang, Y., Flaxman, S., Bhatt, S., & Ratmann, O. (2021). Regularised B-splines projected Gaussian Process priors to estimate time-trends of age-specific COVID-19 deaths related to vaccine roll-out.'
 ---
