@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Carlos, an MSc in Mathematical Sciences (OMMS) student at the University of Oxford. Prior to coming to Oxford, I completed my undergraduate degree at Imperial College London, also in Mathematics.
+Hi! I'm Carlos, an MSc in Mathematical Sciences (OMMS) student at the University of Oxford. Prior to coming to Oxford, I completed my undergraduate degree at Imperial College London, also in Mathematics. Next year I'll be joining Brown University's Applied Mathematics PhD program.
 
 I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin. I grew up in Madrid, and I am currently living in Oxford. I am a Portuguese and Spanish dual citizen. 
 
@@ -16,9 +16,9 @@ I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Po
 
 Mathematical Interests
 ======
-I am mainly drawn to Probability, Mathematical Statistics, Analysis, and Mathematical Physics. Some topics I have spent some time thinking about include [Optimal Transport](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)), especially Stochastic Optimal Transport, [Random Matrix Theory](https://en.wikipedia.org/wiki/Random_matrix), [Interacting Particle Systems](https://en.wikipedia.org/wiki/Interacting_particle_system), [Stochastic Differential Equations](https://en.wikipedia.org/wiki/Stochastic_differential_equation) and [Partial Differential Equations](https://en.wikipedia.org/wiki/Partial_differential_equation).
+I am mainly drawn to Probability, Mathematical Statistics, Analysis, and Mathematical Physics. Some topics I have spent some time thinking about include [Optimal Transport](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)), [Random Matrix Theory](https://en.wikipedia.org/wiki/Random_matrix) and [Interacting Particle Systems](https://en.wikipedia.org/wiki/Interacting_particle_system). I also enjoy thinking about discrete probability, and I have a soft spot for Combinatorics and Statistical Mechanics. Finally, I like applying my mathematical knowledge to problems arising from Computer Science and Machine Learning.
 
-I am planning to learn more about the [KPZ Universality Class](https://arxiv.org/pdf/1106.1596.pdf) and [Integrable Probability](https://arxiv.org/pdf/1212.3351.pdf) in the near future. Furthermore, I am counting on taking classes on [Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory), [Hydrodynamic Limits](https://en.wikipedia.org/wiki/Thermodynamic_limit) and [Concentration Inequalities](https://en.wikipedia.org/wiki/Concentration_inequality). Nevertheless, I am always open to new ideas and suggestions! For example, I was recently exposed to [Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory) and I am keen to learn more about it.
+I wrote my MSc dissertation on the optimal matching problem and its connection to opttimal transport; I was very lucky to be supervised by [Prof James Martin](https://www.stats.ox.ac.uk/~martin/).
 
 Mentors
 ======
@@ -31,3 +31,4 @@ Some of the people I have had the pleasure to meet and have helped me to become 
 - [Dr Dan Mikulincer](https://www.wisdom.weizmann.ac.il/~danmi/) (MIT)
 - [Dr Yair Shenfeld](https://www.yairshenfeld.com/) (Met at MIT, now at Brown)
 - [Prof Patrícia Gonçalves](https://patriciamath.wixsite.com/patricia) (IST Lisbon)
+- [Prof James Martin](https://www.stats.ox.ac.uk/~martin/) (University of Oxford)
