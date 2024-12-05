@@ -31,7 +31,7 @@ Research, Teaching & Work Experience
 Conferences & Workshops
 ------
 - Nov 2024: 23rd Northeast Probability Seminar. Held at Columbia University, attended. [Conference page](https://probability.commons.gc.cuny.edu/23rd-northeast-probability-seminar/)
-- Jan 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems. Held at CIRM (Marseille). [Conference page](https://conferences.cirm-math.fr/2988.html)
+- Jan 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems; attended. Held at CIRM (Marseille). [Conference page](https://conferences.cirm-math.fr/2988.html)
 - Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023). Held at the University of Lisbon, attended and volunteered. Kindly funded by the [Imperial College Faculty of Natural Sciences Dean's Fund](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/). [Conference page](https://www.spa2023.org/)
 - Jul 2023: CNRS-ICL Workshop: Mean field limits for interacting particle systems: uniform propagation of chaos, phase transitions and applications. Held at Imperial College London, attended. [Conference page](https://www.imperial.ac.uk/events/163582/cnrs-icl-workshop-mean-field-limits-for-interacting-particle-systems-uniform-propagation-of-chaos-phase-transitions-and-applications/)
 - Jul 2022: Advances in Mathematical Physics: A Conference in Honor of Elliott H. Lieb on his 90th Birthday. Held at Harvard University, attended. [Conference page](https://www.math.harvard.edu/event/conference-mathematics-of-statistical-mechanics-and-quantum-physics/)
