@@ -14,3 +14,5 @@ This is my MSc thesis, where I analysed [Otto, Huesmann and Mattesini's paper](h
 There is also a generalisation of this result to $\ell_p$ optimal matchings, where the cost is the $\ell_p$ norm; this is given in a [follow-up paper](https://arxiv.org/pdf/2311.17687) by the same authors.
 
 I also briefly discuss some open problems and possible extensions of this work, such as extending the result to multi-matchings (where the matching defines a hypergraph) and to multiple point processes in 2D.
+
+[Download my thesis here](../files/MSc_Thesis_Carlos_Perello.pdf)
