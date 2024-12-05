@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/hawkes
 excerpt: 'This paper is an extension of my 2nd year group project, which consisted on fitting Hawkes processes to the London Santander Cycle bike-sharing system. In this paper we employ a spatial component in the model to take in account distances between docking stations when predicting bike usage.'
 date: 1-11-2023
-venue: 'Preprint (submitted for publication)'
+venue: 'Appeared in Stat'
 paperurl: 'https://arxiv.org/abs/2311.00595'
 citation: 'F. Sanna Passino, Y. Che, C. C. Perello, C. A. (2023). Graph-based mutually exciting point processes for modelling event times in docked bike-sharing systems.'
 ---
