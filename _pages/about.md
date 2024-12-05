@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Carlos, an Applied Mathematics PhD student Brown University. Before Brown, I completed an MSc in Mathematical Sciences at the University of Oxford and a BSc at Imperial College London, also in Mathematics. 
+Hi! I'm Carlos, an Applied Mathematics PhD student at Brown University. Prior to coming to Brown, I completed an MSc in Mathematical Sciences at the University of Oxford and a BSc at Imperial College London, also in Mathematics. 
 
-I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin. I grew up in Madrid, and I am currently living in Oxford. I am a Portuguese and Spanish dual citizen. 
+I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin, and I grew up in Madrid. I am a Portuguese and Spanish dual citizen. 
 
 (Due to some differences in Spanish & Portuguese naming conventions, I also use the name Carlos Alberto Perello Mota Pinto.)
 
 Mathematical Interests
 ======
-I am drawn to the broad intersection between Analysis, Probability and Statistical Mechanics. I'm particularly interested in applying optimal transport for statistical inference, as well as analysing classical statistics problems using optimal transport. In addition, I am also interested in Spin Glasses, the theory of disordered systems and how it can be applied to statistics.
+Broadly speaking, I am interested in applying Analysis, Probability and Statistical Mechanics to develop new statistical methods/tools. I'm particularly drawn to applying optimal transport for generative modelling, as well as analysing classical statistics problems using optimal transport. In addition, I am also intersted in studying algorithms for random optimisation, such as optimising over random functions arising from Spin Glasses theory and disordered systems.
 
 I wrote my MSc dissertation on the optimal matching problem and its connection to opttimal transport; I was very lucky to be supervised by [Prof James Martin](https://www.stats.ox.ac.uk/~martin/). Before this, I wrote my BSc project on importance sampling, where I was fortunate to work alongside [Prof Ömer Deniz Akyildiz](https://akyildiz.me/).
 
