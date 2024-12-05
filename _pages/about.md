@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "Math student"
+excerpt: "Applied Math PhD student"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I'm Carlos, an MSc in Mathematical Sciences (OMMS) student at the University of Oxford. Prior to coming to Oxford, I completed my undergraduate degree at Imperial College London, also in Mathematics. Next year I'll be joining Brown University's Applied Mathematics PhD program.
+Hi! I'm Carlos, an Applied Mathematics PhD student Brown University. Before Brown, I completed an MSc in Mathematical Sciences at the University of Oxford and a BSc at Imperial College London, also in Mathematics. 
 
 I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin. I grew up in Madrid, and I am currently living in Oxford. I am a Portuguese and Spanish dual citizen. 
 
@@ -16,19 +16,19 @@ I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Po
 
 Mathematical Interests
 ======
-I am mainly drawn to Probability, Mathematical Statistics, Analysis, and Mathematical Physics. Some topics I have spent some time thinking about include [Optimal Transport](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)), [Random Matrix Theory](https://en.wikipedia.org/wiki/Random_matrix) and [Interacting Particle Systems](https://en.wikipedia.org/wiki/Interacting_particle_system). I also enjoy thinking about discrete probability, and I have a soft spot for Combinatorics and Statistical Mechanics. Finally, I like applying my mathematical knowledge to problems arising from Computer Science and Machine Learning.
+I am drawn to the broad intersection between Analysis, Probability and Statistical Mechanics. I'm particularly interested in applying optimal transport for statistical inference, as well as analysing classical statistics problems using optimal transport. In addition, I am also interested in Spin Glasses, the theory of disordered systems and how it can be applied to statistics.
 
-I wrote my MSc dissertation on the optimal matching problem and its connection to opttimal transport; I was very lucky to be supervised by [Prof James Martin](https://www.stats.ox.ac.uk/~martin/).
+I wrote my MSc dissertation on the optimal matching problem and its connection to opttimal transport; I was very lucky to be supervised by [Prof James Martin](https://www.stats.ox.ac.uk/~martin/). Before this, I wrote my BSc project on importance sampling, where I was fortunate to work alongside [Prof Ömer Deniz Akyildiz](https://akyildiz.me/).
 
 Mentors
 ======
 Some of the people I have had the pleasure to meet and have helped me to become the mathematician I am today are listed below. I am extremely grateful for their support and guidance. I am also thankful to all the people who have assisted me along the way and I have not mentioned here.
 
-- [Dr Oliver Ratmann](https://www.imperial.ac.uk/people/o.ratmann) (Imperial College London)
-- [Dr Ömer Deniz Akyildiz](https://akyildiz.me/) (Imperial College London)
-- [Dr Francesco Sanna Passino](https://fraspass.github.io/) (Imperial College London)
-- [Dr Promit Ghosal](https://www.promit-ghosal.com/) (Met at MIT, now at Brandeis)
-- [Dr Dan Mikulincer](https://www.wisdom.weizmann.ac.il/~danmi/) (MIT)
-- [Dr Yair Shenfeld](https://www.yairshenfeld.com/) (Met at MIT, now at Brown)
+- [Prof Oliver Ratmann](https://www.imperial.ac.uk/people/o.ratmann) (Imperial College London)
+- [Prof Ömer Deniz Akyildiz](https://akyildiz.me/) (Imperial College London)
+- [Prof Francesco Sanna Passino](https://fraspass.github.io/) (Imperial College London)
+- [Prof Promit Ghosal](https://www.promit-ghosal.com/) (Met at MIT, now at UChicago)
+- [Prof Dan Mikulincer](https://www.wisdom.weizmann.ac.il/~danmi/) (MIT)
+- [Prof Yair Shenfeld](https://www.yairshenfeld.com/) (Met at MIT, now at Brown)
 - [Prof Patrícia Gonçalves](https://patriciamath.wixsite.com/patricia) (IST Lisbon)
 - [Prof James Martin](https://www.stats.ox.ac.uk/~martin/) (University of Oxford)
