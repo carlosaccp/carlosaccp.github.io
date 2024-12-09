@@ -15,4 +15,4 @@ There is also a generalisation of this result to $\ell_p$ optimal matchings, whe
 
 I also briefly discuss some open problems and possible extensions of this work, such as extending the result to multi-matchings (where the matching defines a hypergraph) and to multiple point processes in 2D.
 
-[Download my thesis here](../files/MSc_Thesis_Carlos_Perello.pdf)
+[Download my thesis here](../files/msc_thesis.pdf)
