@@ -16,7 +16,7 @@ I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Po
 
 Mathematical Interests
 ======
-Broadly speaking, I am interested in applying Analysis, Probability and Statistical Mechanics to develop new statistical methods/tools. I'm particularly drawn to applying optimal transport for generative modelling, as well as analysing classical statistics problems using optimal transport. In addition, I am also intersted in studying algorithms for random optimisation, such as optimising over random functions arising from Spin Glass theory and disordered systems.
+Broadly speaking, I am interested in applying Analysis and Probability to develop new computational tools, as well as researching where these tools come from. I draw most of my inspiration from the realms of integrable probability, optimal transport, and statistical mechanics. Optimal transport, in particular, has been a great interest of mine for quite some time now, due to its applications in both theory and practice. In addition, I am also intersted in studying algorithms for stochastic optimisation, such as optimising over random functions arising from Spin Glass theory and disordered systems, as these have applications in machine learning and statistical physics (such as [graph cutting problems](https://pagesperso.g-scop.grenoble-inp.fr/~seboa/sebo_files/papers/phys97optcuts.pdf)).
 
 I wrote my MSc dissertation on the optimal matching problem and its connection to optimal transport; I was very lucky to be supervised by [Prof James Martin](https://www.stats.ox.ac.uk/~martin/). Before this, I wrote my BSc project on importance sampling, where I was fortunate to work alongside [Prof Ömer Deniz Akyildiz](https://akyildiz.me/).
 
