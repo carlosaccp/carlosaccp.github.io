@@ -1,6 +1,6 @@
 ---
 title: "Fitting Hawkes processes to London Santander bike-sharing data"
-excerpt: "Second year project at Imperial College London, supervised by [Dr Francesco Sanna Passino](https://fraspass.github.io/)."
+excerpt: "Second year project at Imperial College London, supervised by [Prof Francesco Sanna Passino](https://fraspass.github.io/)."
 collection: portfolio
 ---
 
