@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/glespa
 venue: "Brown University"
-date: 2025-04-01
+date: 01/04/2025
 location: "Providence, RI"
 ---
 

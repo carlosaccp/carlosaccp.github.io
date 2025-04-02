@@ -1,7 +1,7 @@
 ---
-title: "Peer Tutor"
+title: "Peer Tutoring"
 collection: teaching
-type: "Peer Tutor"
+type: "Peer Tutoring"
 permalink: /teaching/peer-tutor
 venue: "Imperial College London, Department of Mathematics"
 date: 01/10/2022 - 01/06/2023
