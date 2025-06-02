@@ -8,9 +8,9 @@ date: 01-04-2025
 location: "Providence, RI"
 ---
 
-[More information here](https://glespa-brown.github.io/2025-spring/2023/05/18/Carlos.html)
-
 I gave a short talk at [Brown's Graduate Lecture Series in Analysis and PDEs (GLESPA)](https://glespa-brown.github.io) on the work I conducted when writing my MSc thesis, which is available [here](https://carlosaccp.github.io/files/msc_thesis.pdf).
+
+[More information here](https://glespa-brown.github.io/2025-spring/2023/05/18/Carlos.html)
 
 **Abstract**
 
