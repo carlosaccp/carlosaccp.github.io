@@ -16,8 +16,6 @@ Education
 - 2024 - 2025: ScM in Applied Mathematics at [Brown University](https://www.brown.edu/)
 - 2023 - 2024: MSc in Mathematical Sciences at the the University of Oxford (Reuben College, graduated with Merit)
 - 2020 - 2023: BSc in Mathematics at Imperial College London (First Class Honours, top 5% of cohort)
-- 2019 - 2020: BSc in Physics at Imperial College London (Transferred to Mathematics)
-- 2017 - 2019: A-Levels at [King's College Madrid](https://www.kingscollegeschools.org/) (A\*A\*A\*A\*B in Mathematics, Further Mathematics, Physics, Spanish and Chemistry respectively)
 
 Research, Teaching & Work Experience
 ------
