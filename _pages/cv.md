@@ -13,7 +13,7 @@ My full CV is available upon request; I am reachable via my email - carlos (unde
 
 Education
 ------
-- 2024 - Now: PhD in Applied Mathematics at [Brown University](https://www.brown.edu/)
+- 2024 - 2025: ScM in Applied Mathematics at [Brown University](https://www.brown.edu/)
 - 2023 - 2024: MSc in Mathematical Sciences at the the University of Oxford (Reuben College, graduated with Merit)
 - 2020 - 2023: BSc in Mathematics at Imperial College London (First Class Honours, top 5% of cohort)
 - 2019 - 2020: BSc in Physics at Imperial College London (Transferred to Mathematics)
@@ -30,6 +30,7 @@ Research, Teaching & Work Experience
 
 Conferences & Workshops
 ------
+- Jun 2025: SLMath Graduate Summer School in Statistical Optimal Transport. To be held at SLMath (UC Berkeley), will attend. [Conference page](https://www.slmath.org/summer-schools/1102)
 - Nov 2024: 23rd Northeast Probability Seminar. Held at Columbia University, attended. [Conference page](https://probability.commons.gc.cuny.edu/23rd-northeast-probability-seminar/)
 - Jan 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems; attended. Held at CIRM (Marseille). [Conference page](https://conferences.cirm-math.fr/2988.html)
 - Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023). Held at the University of Lisbon, attended and volunteered. Kindly funded by the [Imperial College Faculty of Natural Sciences Dean's Fund](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/). [Conference page](https://www.spa2023.org/)
