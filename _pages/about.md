@@ -14,7 +14,7 @@ I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Po
 
 (Due to some differences in Spanish & Portuguese naming conventions, I also use the name Carlos Alberto Perello Mota Pinto.)
 
-Mathematical Interests
+Research
 ======
 Broadly speaking, I am interested in applying Analysis and Probability to develop new robust statistical tools, and understanding the theory underpinning said algorithms. I draw most of my inspiration from the realms of integrable probability, optimal transport, and statistical mechanics. Optimal transport, in particular, has been a great interest of mine for quite some time now, due to its applications in both theory and practice. In addition, I am also intersted in studying algorithms for stochastic optimisation, such as optimising over random functions arising from Spin Glass theory and disordered systems, as these have applications in machine learning and statistical physics (such as [graph cutting problems](https://pagesperso.g-scop.grenoble-inp.fr/~seboa/sebo_files/papers/phys97optcuts.pdf)). In terms of applications, I am particularly drawn to applying these ideas to problems in mathematical finance, machine learning and control theory.
 
