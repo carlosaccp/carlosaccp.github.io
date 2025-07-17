@@ -13,13 +13,14 @@ My full CV is available upon request; I am reachable via my email - carlos (unde
 
 Education
 ------
-- 2024 - 2025: ScM in Applied Mathematics at [Brown University](https://www.brown.edu/)
+- 2024 - 2025: ScM in Applied Mathematics at [Brown University](https://www.brown.edu/) (4.0 average GPA)
 - 2023 - 2024: MSc in Mathematical Sciences at the the University of Oxford (Reuben College, graduated with Merit)
 - 2020 - 2023: BSc in Mathematics at Imperial College London (First Class Honours, top 5% of cohort)
 
 Research, Teaching & Work Experience
 ------
-- Jun 2024 - Sep 2024: Quantitative R&D Intern at [Verition Fund Management](https://www.verition.com/)
+- Jul 2024 - Present: Quantitative Research Intern (Mid freq systematic stat arb) at [Verition Fund Management](https://www.verition.com/)
+- Jun 2024 - Sep 2024: Quantitative Research Intern (Volatility models) at [Verition Fund Management](https://www.verition.com/)
 - Jun 2023 - Oct 2023: Research Intern at [Imperial College London](https://www.imperial.ac.uk/)
 - Feb 2023 - Apr 2023: Numerical Analysis Undergraduate Teaching Assistant at [Imperial College London](https://www.imperial.ac.uk/)
 - Oct 2022 - Apr 2023: Peer Tutor at [Imperial College London](https://www.imperial.ac.uk/)
