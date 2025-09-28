@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Carlos, an incoming PhD student in Statistics at Columbia University. I transferred from the PhD program in Applied Mathematics at Brown University (earning a terminal ScM in Applied Mathematics), and prior to this I completed an MSc in Mathematical Sciences at the University of Oxford and a BSc at Imperial College London, also in Mathematics. 
+I'm Carlos, a PhD student in Statistics at Columbia University. I transferred from the PhD program in Applied Mathematics at Brown University (earning a terminal ScM in Applied Mathematics), and prior to this I completed an MSc in Mathematical Sciences at the University of Oxford and a BSc at Imperial College London, also in Mathematics. 
 
 I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin, and I grew up in Madrid. I am a Portuguese and Spanish dual citizen. 
 
