@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available upon request; I am reachable via my email - carlos (underscore) accp (at) brown (dot) edu. Here is a brief overview of what I've done so far: 
+My full CV is available upon request; I am reachable via my email - carlos (underscore) accp (at) columbia (dot) edu. Here is a brief overview of what I've done so far: 
 
 Education
 ------
+- 2025 - Present: PhD in Statistics at [Columbia University](https://www.columbia.edu/)
 - 2024 - 2025: ScM in Applied Mathematics at [Brown University](https://www.brown.edu/) (4.0 average GPA)
 - 2023 - 2024: MSc in Mathematical Sciences at the the University of Oxford (Reuben College, graduated with Merit)
 - 2020 - 2023: BSc in Mathematics at Imperial College London (First Class Honours, top 5% of cohort)
 
 Research, Teaching & Work Experience
 ------
-- Jul 2024 - Present: Quantitative Research Intern (Mid freq systematic stat arb) at [Verition Fund Management](https://www.verition.com/)
+- Jul 2025 - Sep 2025: Quantitative Research Intern (Mid freq systematic stat arb) at [Verition Fund Management](https://www.verition.com/)
 - Jun 2024 - Sep 2024: Quantitative Research Intern (Volatility models) at [Verition Fund Management](https://www.verition.com/)
 - Jun 2023 - Oct 2023: Research Intern at [Imperial College London](https://www.imperial.ac.uk/)
 - Feb 2023 - Apr 2023: Numerical Analysis Undergraduate Teaching Assistant at [Imperial College London](https://www.imperial.ac.uk/)
