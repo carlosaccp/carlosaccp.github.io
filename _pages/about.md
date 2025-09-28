@@ -12,7 +12,7 @@ I'm Carlos, a PhD student in Statistics at Columbia University. I transferred fr
 
 I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Portuguese father and a Spanish mother of Catalan origin, and I grew up in Madrid. I am a Portuguese and Spanish dual citizen. 
 
-(Due to some differences in Spanish & Portuguese naming conventions, I also use the name Carlos Alberto Perello Mota Pinto.)
+(Due to some differences in Spanish & Portuguese naming conventions, I also use the name Carlos Alberto Perello Mota Pinto. Also, all views/opinions expressed here and on my [blog](/blog/) are my own and are not a reflection of the opinions of Columbia University, the Department of Statistics or my academic advisors.)
 
 Research
 ======
