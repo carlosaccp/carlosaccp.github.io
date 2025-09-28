@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available upon request; I am reachable via my email - carlos (underscore) accp (at) columbia (dot) edu. Here is a brief overview of what I've done so far: 
+My full CV is available upon request; I am reachable via my email - carlos (dot) accp (at) columbia (dot) edu. Here is a brief overview of what I've done so far: 
 
 Education
 ------
