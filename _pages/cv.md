@@ -39,6 +39,7 @@ Conferences & Workshops
 
 Awards & Scholarships
 ------
+- Sep 2025: [Columbia University](https://www.columbia.edu/) Departmental Fellowship
 - Aug 2024: [Brown University](https://www.brown.edu/) Graduate School Fellowship
 - May 2023: Imperial College Faculty of Natural Sciences [Dean's Fund Grant](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/) for the 43rd conference on Stochastic Processes and their Applications (SPA 2023)
 - Mar 2022: Turing Scheme Grant for Research Internship at the [Massachusetts Institute of Technology](https://www.mit.edu/)
