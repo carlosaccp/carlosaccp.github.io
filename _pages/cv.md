@@ -15,8 +15,8 @@ Education
 ------
 - 2025 - Present: PhD in Statistics at [Columbia University](https://www.columbia.edu/)
 - 2024 - 2025: ScM in Applied Mathematics at [Brown University](https://www.brown.edu/) (4.0 average GPA)
-- 2023 - 2024: MSc in Mathematical Sciences at the the University of Oxford (Reuben College, graduated with Merit)
-- 2020 - 2023: BSc in Mathematics at Imperial College London (First Class Honours, top 5% of cohort)
+- 2023 - 2024: MSc in Mathematical Sciences at the the [University of Oxford](https://www.maths.ox.ac.uk/) ([Reuben College](https://reuben.ox.ac.uk/), graduated with Merit)
+- 2020 - 2023: BSc in Mathematics at [Imperial College London](https://www.imperial.ac.uk/mathematics/) (First Class Honours, top 5% of cohort)
 
 Research, Teaching & Work Experience
 ------
