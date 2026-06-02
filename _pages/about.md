@@ -16,7 +16,7 @@ I was born in [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra) to a Po
 
 Research
 ======
-Broadly speaking, I am interested in applying Analysis and Probability to develop new robust statistical tools, and understanding the theory underpinning said algorithms. I draw most of my inspiration from the realms of integrable probability, optimal transport, and statistical mechanics. Optimal transport, in particular, has been a great interest of mine for quite some time now, due to its applications in both theory and practice. In addition, I am also intersted in studying algorithms for stochastic optimisation, such as optimising over random functions arising from Spin Glass theory and disordered systems, as these have applications in machine learning and statistical physics (such as [graph cutting problems](https://pagesperso.g-scop.grenoble-inp.fr/~seboa/sebo_files/papers/phys97optcuts.pdf)). In terms of applications, I am particularly drawn to applying these ideas to problems in mathematical finance, machine learning and control theory.
+Broadly speaking, I am interested in applying Analysis and Probability. Optimal transport, in particular, has been a great interest of mine for quite some time now, due to its applications in both theory and practice. I am also interested in mathematical physics, especially in spin glass systems and Liouville quantum gravity.
 
 I wrote my MSc dissertation on the optimal matching problem and its connection to optimal transport; I was very lucky to be supervised by [Prof James Martin](https://www.stats.ox.ac.uk/~martin/). Before this, I wrote my BSc project on importance sampling, where I was fortunate to work alongside [Prof Ömer Deniz Akyildiz](https://akyildiz.me/).
 
@@ -28,7 +28,9 @@ Some of the people I have had the pleasure to meet and have helped me to become 
 - [Prof Ömer Deniz Akyildiz](https://akyildiz.me/) (Imperial College London)
 - [Prof Francesco Sanna Passino](https://fraspass.github.io/) (Imperial College London)
 - [Prof Promit Ghosal](https://www.promit-ghosal.com/) (Met at MIT, now at UChicago)
-- [Prof Dan Mikulincer](https://www.wisdom.weizmann.ac.il/~danmi/) (MIT)
+- [Prof Dan Mikulincer](https://www.wisdom.weizmann.ac.il/~danmi/) (Met at MIT, not at UWash)
 - [Prof Patrícia Gonçalves](https://patriciamath.wixsite.com/patricia) (IST Lisbon)
 - [Prof James Martin](https://www.stats.ox.ac.uk/~martin/) (University of Oxford)
 - [Prof Marcel Nutz](https://www.marcelnutz.com) (Columbia University)
+- [Prof Ivan Corwin](https://www.math.columbia.edu/~corwin/) (Columbia University)
+- [Prof Alberto González Sanz](https://sites.google.com/view/albertogonzlezsanz/home) (Columbia University)

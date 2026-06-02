@@ -28,14 +28,26 @@ Research, Teaching & Work Experience
 - Jul 2022 - Aug 2022: Research Intern at the [Massachusetts Institute of Technology](https://www.mit.edu/)
 - Jul 2021 - Sep 2021: Software Engineering Intern at [Arm](https://www.arm.com/)
 
-Conferences & Workshops
+Talks & Presentations
 ------
-- Jun 2025: SLMath Graduate Summer School in Statistical Optimal Transport. Held at UC Berkeley, attended. [Conference page](https://www.slmath.org/summer-schools/1102)
-- Nov 2024: 23rd Northeast Probability Seminar. Held at Columbia University, attended. [Conference page](https://probability.commons.gc.cuny.edu/23rd-northeast-probability-seminar/)
-- Jan 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems. Held at CIRM (Marseille), attended. [Conference page](https://conferences.cirm-math.fr/2988.html)
-- Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023). Held at the University of Lisbon, attended and volunteered. Kindly funded by the [Imperial College Faculty of Natural Sciences Dean's Fund](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/). [Conference page](https://www.spa2023.org/)
-- Jul 2023: CNRS-ICL Workshop: Mean field limits for interacting particle systems: uniform propagation of chaos, phase transitions and applications. Held at Imperial College London, attended. [Conference page](https://www.imperial.ac.uk/events/163582/cnrs-icl-workshop-mean-field-limits-for-interacting-particle-systems-uniform-propagation-of-chaos-phase-transitions-and-applications/)
-- Jul 2022: Advances in Mathematical Physics: A Conference in Honor of Elliott H. Lieb on his 90th Birthday. Held at Harvard University, attended. [Conference page](https://www.math.harvard.edu/event/conference-mathematics-of-statistical-mechanics-and-quantum-physics/)
+- Sep 2026: "Fluctuations in Sparse Regularized Optimal Transport" at SEIO 2026 (Santiago de Compostela, Spain). [Website](https://seio2026.com/en/)
+- Jun 2026: "Sharp Asymptotics for Regularized Optimal Transport" at the International Workshop on Stochastic Dynamics, Interacting Particle Systems and Applications (IST, Lisbon). [Website](https://sites.google.com/view/liberamidtermworkshop/home?authuser=0)
+
+Conferences, Workshops & Summer schools
+------
+- Sep 2026: XLII National Conference on Statistics, Operations Research and Data Science (SEIO2026). To be held in Santiago de Compostela, will attend. [Website](https://seio2026.com/en/)
+- Jul 2026: 4th Simons Math Summer Workshop: Algebraic methods in probability. To be held at SCGP (Stony Brook), will attend. [Website](https://scgp.stonybrook.edu/archives/45985)
+- Jun 2026: Peking Summer Program in Probability: Probability & Quantum Field Theory. Held at Peking University, attended. [Website](http://faculty.bicmr.pku.edu.cn/~xinsun/program2026.html)
+- May 2026: Summer course on High-dimensional CLTs and Bootstrap by [Prof. Kengo Kato](https://sites.google.com/site/kkatostat/home). Held at Columbia University, attended. 
+- Apr 2026: Workshop on robust statistics. Help at Columbia University, attended. [Website](https://statsworkshop.wixsite.com/robust-stats2026)
+- Nov 2025: 24th Northeast Probability Seminar. Held at CUNY, attended. [Website](https://probability.commons.gc.cuny.edu/24th-northeast-probability-seminar/)
+- Jun 2025: SLMath Graduate Summer School in Statistical Optimal Transport. Held at UC Berkeley, attended. [Website](https://www.slmath.org/summer-schools/1102)
+- Jun 2025: SLMath Graduate Summer School in Statistical Optimal Transport. Held at UC Berkeley, attended. [Website](https://www.slmath.org/summer-schools/1102)
+- Nov 2024: 23rd Northeast Probability Seminar. Held at Columbia University, attended. [Website](https://probability.commons.gc.cuny.edu/23rd-northeast-probability-seminar/)
+- Jan 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems. Held at CIRM (Marseille), attended. [Website](https://conferences.cirm-math.fr/2988.html)
+- Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023). Held at the University of Lisbon, attended and volunteered. Kindly funded by the [Imperial College Faculty of Natural Sciences Dean's Fund](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/). [Website](https://www.spa2023.org/)
+- Jul 2023: CNRS-ICL Workshop: Mean field limits for interacting particle systems: uniform propagation of chaos, phase transitions and applications. Held at Imperial College London, attended. [Website](https://www.imperial.ac.uk/events/163582/cnrs-icl-workshop-mean-field-limits-for-interacting-particle-systems-uniform-propagation-of-chaos-phase-transitions-and-applications/)
+- Jul 2022: Advances in Mathematical Physics: A Conference in Honor of Elliott H. Lieb on his 90th Birthday. Held at Harvard University, attended. [Website](https://www.math.harvard.edu/event/conference-mathematics-of-statistical-mechanics-and-quantum-physics/)
 
 Awards & Scholarships
 ------
@@ -46,9 +58,11 @@ Awards & Scholarships
 - Sep 2022: Dean's List at [Imperial College London](https://www.imperial.ac.uk/)
 - Jul 2019: Nexalia Award & Sir Roger Fry Scholarship at [King's College Madrid](https://www.kingscollegeschools.org/)
 
-Volunteering
+Volunteering & Service
 ------
-- Aug 2023: Conference helper at the 43rd conference on Stochastic Processes and their Applications (SPA 2023)
+- Sep 2026 - Jun 2026: Organiser of the Columbia Statistics' Student Seminar.
+- Apr 2026: Poster session organiser at Columbia's Workshop on Robust Statistics. [Website](https://statsworkshop.wixsite.com/robust-stats2026)
+- Aug 2023: Conference helper at the 43rd conference on Stochastic Processes and their Applications (SPA 2023).
 - Aug 2022 - Aug 2023: President of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
 - Aug 2021 - Aug 2022: Events officer at Imperial College's Portuguese-Speaking Society
 - Aug 2021 - Aug 2022: Secretary of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
