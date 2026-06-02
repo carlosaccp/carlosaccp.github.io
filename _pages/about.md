@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "Statistics PhD student"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
