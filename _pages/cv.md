@@ -35,7 +35,7 @@ Talks & Presentations
 
 Conferences, Workshops & Summer schools
 ------
-- Sep 2026: XLII National Conference on Statistics, Operations Research and Data Science (SEIO2026). To be held in Santiago de Compostela, will attend. [Website](https://seio2026.com/en/)
+- Sep 2026: XLII National Conference on Statistics, Operations Research and Data Science (SEIO 2026). To be held in Santiago de Compostela, will attend. [Website](https://seio2026.com/en/)
 - Jul 2026: 4th Simons Math Summer Workshop: Algebraic methods in probability. To be held at SCGP (Stony Brook), will attend. [Website](https://scgp.stonybrook.edu/archives/45985)
 - Jun 2026: Peking Summer Program in Probability: Probability & Quantum Field Theory. Held at Peking University, attended. [Website](http://faculty.bicmr.pku.edu.cn/~xinsun/program2026.html)
 - May 2026: Summer course on High-dimensional CLTs and Bootstrap by [Prof. Kengo Kato](https://sites.google.com/site/kkatostat/home). Held at Columbia University, attended. 
