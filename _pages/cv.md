@@ -59,7 +59,7 @@ Awards & Scholarships
 
 Volunteering & Service
 ------
-- Sep 2026 - Jun 2026: Organiser of the Columbia Statistics' Student Seminar.
+- Sep 2026 - Jun 2026: Organiser of the Columbia Statistics' Student Seminar. [Website](https://carlosaccp.github.io/columbia-stats-student-seminar-2026-27/)
 - Apr 2026: Poster session organiser at Columbia's Workshop on Robust Statistics. [Website](https://statsworkshop.wixsite.com/robust-stats2026)
 - Aug 2023: Conference helper at the 43rd conference on Stochastic Processes and their Applications (SPA 2023).
 - Aug 2022 - Aug 2023: President of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
