@@ -6,7 +6,7 @@ excerpt: 'This is my MSc thesis, where I analysed a recent proof of the fact tha
 date: 01-04-2024
 venue: 'MSc Thesis'
 paperurl: ''
-citation: 'C. C. Perello, C. A. (2024), Non-existence of the 2D quadratic Poisson optimal matching.'
+citation: 'C. A.C.C. Perello. Non-existence of the 2D quadratic Poisson optimal matching, (2024).'
 ---
 
 This is my MSc thesis, where I analysed [Otto, Huesmann and Mattesini's paper](https://arxiv.org/abs/2109.13590) showing the non-existence of stationary, non-ergodic, quadratic and locally-optimal 2D Poisson matchings. The proof is based on the fact that the  local optimiality of the Poisson matching problem is equivalent to the discrete Monge-Kantorovich optimal transport problem between the restricted Poisson process counting measures. Analysing this problem and performing a multiscale argument, one arrives at a contradiction, showing that such a matching does not exist. 

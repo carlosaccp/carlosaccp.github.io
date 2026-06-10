@@ -6,7 +6,7 @@ excerpt: 'This paper studies sharp small-regularisation asymptotics for a unifie
 date: 10-06-2026
 venue: 'In preparation'
 paperurl: ''
-citation: 'C. C. Perello, A. González-Sanz, M. Nutz. Sharp Asymptotics for Regularised Optimal Transport. In preparation.'
+citation: 'C. A.C.C. Perello, A. González-Sanz, M. Nutz. Sharp Asymptotics for Regularised Optimal Transport, (2026+). In preparation.'
 ---
 
 We study the small-regularisation limit for a unified family of regularised optimal transport problems, including entropically regularised optimal transport and $L^p$-regularised optimal transport. Regularisation is central to the practical use of optimal transport, both for computational reasons and for its connections with machine learning, numerical stability, and sparse transport plans.
