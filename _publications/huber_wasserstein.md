@@ -2,7 +2,7 @@
 title: "Optimal Transport with Huber Loss: Barycentres and Robustness"
 collection: publications
 permalink: /publication/huber-ot-barycentres
-excerpt: 'This paper develops a robust alternative to Wasserstein barycentres using optimal transport with Huber loss, establishing stability, existence, and robustness properties.'
+excerpt: 'We develop a robust alternative to Wasserstein barycentres using optimal transport with Huber loss, establishing stability, existence, and robustness properties.'
 date: 10-06-2026
 venue: 'In preparation'
 paperurl: ''

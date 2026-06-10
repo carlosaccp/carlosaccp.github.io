@@ -2,7 +2,7 @@
 title: "Sharp Asymptotics for Regularised Optimal Transport"
 collection: publications
 permalink: /publication/sharp-asymptotics-regularised-ot
-excerpt: 'This paper studies sharp small-regularisation asymptotics for a unified family of regularised optimal transport problems, including entropic and $L^p$-regularised optimal transport.'
+excerpt: 'We study sharp small-regularisation asymptotics for a unified family of regularised optimal transport problems, including entropic and $L^p$-regularised optimal transport.'
 date: 10-06-2026
 venue: 'In preparation'
 paperurl: ''

@@ -2,7 +2,7 @@
 title: "Adaptively Optimised Adaptive Importance Samplers"
 collection: publications
 permalink: /publication/adaoais
-excerpt: 'This paper, which stemmed out of my BSc project, introduces a new adaptive importance sampling algorithm that used adaptive optimisation to adapt the proposal distribution.'
+excerpt: 'We introduce a new adaptive importance sampling algorithm that uses optimisation to adapt the proposal distribution to obtain a tighter envelope of the target distribution.'
 date: 18-07-2023
 venue: 'Preprint (submitted for publication)'
 paperurl: 'https://arxiv.org/abs/2307.09341'

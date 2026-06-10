@@ -2,7 +2,7 @@
 title: "Non-existence of the 2D quadratic Poisson optimal matching"
 collection: publications
 permalink: /publication/msc_thesis
-excerpt: 'This is my MSc thesis, where I analysed a recent proof of the fact that a stationary, non-ergodic, quadratic and locally-optimal 2D Poisson matching does not exist.'
+excerpt: 'I analyse a recent proof of the fact that a stationary, non-ergodic, quadratic and locally-optimal 2D Poisson matching does not exist.'
 date: 01-04-2024
 venue: 'MSc Thesis'
 paperurl: ''
