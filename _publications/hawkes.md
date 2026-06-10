@@ -5,7 +5,7 @@ permalink: /publication/hawkes
 excerpt: 'We fit a spatio-temporal Hawkes processes to the London Santander Cycle bike-sharing system and study the resulting model.'
 date: 1-11-2023
 venue: 'Appeared in Stat'
-paperurl: 'https://arxiv.org/abs/2311.00595'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.660'
 citation: 'F. Sanna Passino, Y. Che, C. A.C.C. Perello. Graph-based mutually exciting point processes for modelling event times in docked bike-sharing systems, (2023).'
 ---
 
