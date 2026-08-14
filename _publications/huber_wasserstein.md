@@ -5,7 +5,7 @@ permalink: /publication/huber-ot-barycentres
 excerpt: 'We develop a robust alternative to Wasserstein barycentres using optimal transport with Huber loss, establishing stability, existence, and robustness properties.'
 date: 13-08-2026
 venue: 'ArXiv preprint'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2608.13131'
 citation: 'C. Cardoso-Perelló, A. González-Sanz. Huber-Wasserstein barycenters for robust distribution-valued data , (2026). ArXiv preprint .'
 ---
 
