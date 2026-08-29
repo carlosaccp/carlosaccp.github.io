@@ -29,6 +29,11 @@ Research, Teaching & Work Experience
 - Jul 2022 - Aug 2022: Research Intern at the [Massachusetts Institute of Technology](https://www.mit.edu/)
 - Jul 2021 - Sep 2021: Software Engineering Intern at [Arm](https://www.arm.com/)
 
+Publications
+------
+
+A full list of publications and articles is available [here](https://carlosaccp.github.io/publications/).
+
 Talks & Presentations
 ------
 - Sep 2026: "Fluctuations in Sparse Regularized Optimal Transport", SEIO 2026 conference.
