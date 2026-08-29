@@ -20,6 +20,7 @@ Education
 
 Research, Teaching & Work Experience
 ------
+- Sep 2025 - Dec 2025: Teaching assistant at [Columbia Statistics](https://stat.columbia.edu/) (detailed descriptions available [here](https://carlosaccp.github.io/teaching/)).
 - Jul 2025 - Sep 2025: Quantitative Research Intern (Mid freq systematic stat arb) at [Verition Fund Management](https://www.verition.com/)
 - Jun 2024 - Sep 2024: Quantitative Research Intern (Volatility models) at [Verition Fund Management](https://www.verition.com/)
 - Jun 2023 - Oct 2023: Research Intern at [Imperial College London](https://www.imperial.ac.uk/)
@@ -30,8 +31,10 @@ Research, Teaching & Work Experience
 
 Talks & Presentations
 ------
-- Sep 2026: "Fluctuations in Sparse Regularized Optimal Transport" at SEIO 2026 (Santiago de Compostela, Spain). [Website](https://seio2026.com/en/)
-- Jun 2026: "Sharp Asymptotics for Regularized Optimal Transport" at the International Workshop on Stochastic Dynamics, Interacting Particle Systems and Applications (IST, Lisbon). [Website](https://sites.google.com/view/liberamidtermworkshop/home?authuser=0)
+- Sep 2026: "Fluctuations in Sparse Regularized Optimal Transport", SEIO 2026 conference.
+- Jul 2026: "Sharp asymptotics for regularized optimal transport", Simons Center for Geometry and Physics (Stony Brook).
+- Jun 2026: "Sharp Asymptotics for Regularized Optimal Transport", IST Lisbon.
+- Jun 2025: "Sparse regularised optimal transport", SLMath (Berkeley).
 
 Conferences, Workshops & Summer schools
 ------
