@@ -31,7 +31,6 @@ Research, Teaching & Work Experience
 
 Publications
 ------
-
 A full list of publications and articles is available [here](https://carlosaccp.github.io/publications/).
 
 Talks & Presentations
