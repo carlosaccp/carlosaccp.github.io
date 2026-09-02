@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available upon request; I am reachable via my email - carlos (dot) accp (at) columbia (dot) edu. Here is a brief overview of what I've done so far: 
+My full CV is available [here](https://drive.google.com/file/d/1XM6OQudk2tiN4S-RvPRBzstk5l4KhXRU/view?usp=drive_link). Here is a brief overview of what I've done so far: 
 
 Education
 ------
@@ -44,6 +44,7 @@ Conferences, Workshops & Summer schools
 ------
 - Sep 2026: XLII National Conference on Statistics, Operations Research and Data Science (SEIO 2026). To be held in Santiago de Compostela, will attend. [Website](https://seio2026.com/en/)
 - Jul 2026: 4th Simons Math Summer Workshop: Algebraic methods in probability. To be held at SCGP (Stony Brook), will attend. [Website](https://scgp.stonybrook.edu/archives/45985)
+- Jun 2026: International Workshop on Stochastic Dynamics, Interacting Particle Systems and Applications. Held at IST Lisbon, attended. [Website](https://sites.google.com/view/liberamidtermworkshop/speakers?authuser=0)
 - Jun 2026: Peking Summer Program in Probability: Probability & Quantum Field Theory. Held at Peking University, attended. [Website](http://faculty.bicmr.pku.edu.cn/~xinsun/program2026.html)
 - May 2026: Summer course on High-dimensional CLTs and Bootstrap by [Prof. Kengo Kato](https://sites.google.com/site/kkatostat/home). Held at Columbia University, attended. 
 - Apr 2026: Workshop on robust statistics. Held at Columbia University, attended. [Website](https://statsworkshop.wixsite.com/robust-stats2026)
