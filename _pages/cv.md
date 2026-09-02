@@ -14,7 +14,7 @@ My full CV is available [here](https://drive.google.com/file/d/1XM6OQudk2tiN4S-R
 Education
 ------
 - Sep 2025 - Present: PhD in Statistics at [Columbia University](https://www.columbia.edu/)
-- Aug 2024 - May 2025: ScM in Applied Mathematics at [Brown University](https://www.brown.edu/) (4.0 average GPA)
+- Aug 2024 - May 2025: ScM in Applied Mathematics at [Brown University](https://www.brown.edu/) (4.0 average GPA; transferred to Columbia)
 - Oct 2023 - May 2024: MSc in Mathematical Sciences at the [University of Oxford](https://www.maths.ox.ac.uk/) ([Reuben College](https://reuben.ox.ac.uk/), graduated with Merit)
 - Oct 2020 - May 2023: BSc in Mathematics at [Imperial College London](https://www.imperial.ac.uk/mathematics/) (First Class Honours, top 5% of cohort)
 
