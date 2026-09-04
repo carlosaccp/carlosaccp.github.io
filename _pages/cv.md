@@ -35,9 +35,9 @@ A full list of publications and articles is available [here](https://carlosaccp.
 
 Talks & Presentations
 ------
-- Sep 2026: "Fluctuations in Sparse Regularized Optimal Transport", SEIO 2026 conference.
+- Sep 2026: "Fluctuations in sparse regularized optimal transport", SEIO 2026 conference.
 - Jul 2026: "Sharp asymptotics for regularized optimal transport", Simons Center for Geometry and Physics (Stony Brook).
-- Jun 2026: "Sharp Asymptotics for Regularized Optimal Transport", IST Lisbon.
+- Jun 2026: "Sharp asymptotics for regularized optimal transport", IST Lisbon.
 - Jun 2025: "Sparse regularised optimal transport", SLMath (Berkeley).
 
 Conferences, Workshops & Summer schools
