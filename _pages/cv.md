@@ -42,19 +42,19 @@ Talks & Presentations
 
 Conferences, Workshops & Summer schools
 ------
-- Sep 2026: XLII National Conference on Statistics, Operations Research and Data Science (SEIO 2026). To be held in Santiago de Compostela, will attend. [Website](https://seio2026.com/en/)
-- Jul 2026: 4th Simons Math Summer Workshop: Algebraic methods in probability. To be held at SCGP (Stony Brook), will attend. [Website](https://scgp.stonybrook.edu/archives/45985)
-- Jun 2026: International Workshop on Stochastic Dynamics, Interacting Particle Systems and Applications. Held at IST Lisbon, attended. [Website](https://sites.google.com/view/liberamidtermworkshop/speakers?authuser=0)
-- Jun 2026: Peking Summer Program in Probability: Probability & Quantum Field Theory. Held at Peking University, attended. [Website](http://faculty.bicmr.pku.edu.cn/~xinsun/program2026.html)
-- May 2026: Summer course on High-dimensional CLTs and Bootstrap by [Prof. Kengo Kato](https://sites.google.com/site/kkatostat/home). Held at Columbia University, attended. 
-- Apr 2026: Workshop on robust statistics. Held at Columbia University, attended. [Website](https://statsworkshop.wixsite.com/robust-stats2026)
-- Nov 2025: 24th Northeast Probability Seminar. Held at CUNY, attended. [Website](https://probability.commons.gc.cuny.edu/24th-northeast-probability-seminar/)
-- Jun 2025: SLMath Graduate Summer School in Statistical Optimal Transport. Held at UC Berkeley, attended. [Website](https://www.slmath.org/summer-schools/1102)
-- Nov 2024: 23rd Northeast Probability Seminar. Held at Columbia University, attended. [Website](https://probability.commons.gc.cuny.edu/23rd-northeast-probability-seminar/)
-- Jan 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems. Held at CIRM (Marseille), attended. [Website](https://conferences.cirm-math.fr/2988.html)
-- Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023). Held at the University of Lisbon, attended and volunteered. Kindly funded by the [Imperial College Faculty of Natural Sciences Dean's Fund](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/). [Website](https://www.spa2023.org/)
-- Jul 2023: CNRS-ICL Workshop: Mean field limits for interacting particle systems: uniform propagation of chaos, phase transitions and applications. Held at Imperial College London, attended. [Website](https://www.imperial.ac.uk/events/163582/cnrs-icl-workshop-mean-field-limits-for-interacting-particle-systems-uniform-propagation-of-chaos-phase-transitions-and-applications/)
-- Jul 2022: Advances in Mathematical Physics: A Conference in Honor of Elliott H. Lieb on his 90th Birthday. Held at Harvard University, attended. [Website](https://www.math.harvard.edu/event/conference-mathematics-of-statistical-mechanics-and-quantum-physics/)
+- Sep 2026: XLII National Conference on Statistics, Operations Research and Data Science (SEIO 2026). To be held in Santiago de Compostela. [Website](https://seio2026.com/en/)
+- Jul 2026: 4th Simons Math Summer Workshop: Algebraic methods in probability. To be held at SCGP (Stony Brook). [Website](https://scgp.stonybrook.edu/archives/45985)
+- Jun 2026: International Workshop on Stochastic Dynamics, Interacting Particle Systems and Applications. Held at IST Lisbon. [Website](https://sites.google.com/view/liberamidtermworkshop/speakers?authuser=0)
+- Jun 2026: Peking Summer Program in Probability: Probability & Quantum Field Theory. Held at Peking University. [Website](http://faculty.bicmr.pku.edu.cn/~xinsun/program2026.html)
+- May 2026: Summer course on High-dimensional CLTs and Bootstrap by [Prof. Kengo Kato](https://sites.google.com/site/kkatostat/home). Held at Columbia University. 
+- Apr 2026: Workshop on robust statistics. Held at Columbia University. [Website](https://statsworkshop.wixsite.com/robust-stats2026)
+- Nov 2025: 24th Northeast Probability Seminar. Held at CUNY. [Website](https://probability.commons.gc.cuny.edu/24th-northeast-probability-seminar/)
+- Jun 2025: SLMath Graduate Summer School in Statistical Optimal Transport. Held at UC Berkeley. [Website](https://www.slmath.org/summer-schools/1102)
+- Nov 2024: 23rd Northeast Probability Seminar. Held at Columbia University. [Website](https://probability.commons.gc.cuny.edu/23rd-northeast-probability-seminar/)
+- Jan 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems. Held at CIRM (Marseille). [Website](https://conferences.cirm-math.fr/2988.html)
+- Aug 2023: 43rd conference on Stochastic Processes and their Applications (SPA 2023). Held at the University of Lisbon. Kindly funded by the [Imperial College Faculty of Natural Sciences Dean's Fund](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/). [Website](https://www.spa2023.org/)
+- Jul 2023: CNRS-ICL Workshop: Mean field limits for interacting particle systems: uniform propagation of chaos, phase transitions and applications. Held at Imperial College London. [Website](https://www.imperial.ac.uk/events/163582/cnrs-icl-workshop-mean-field-limits-for-interacting-particle-systems-uniform-propagation-of-chaos-phase-transitions-and-applications/)
+- Jul 2022: Advances in Mathematical Physics: A Conference in Honor of Elliott H. Lieb on his 90th Birthday. Held at Harvard University. [Website](https://www.math.harvard.edu/event/conference-mathematics-of-statistical-mechanics-and-quantum-physics/)
 
 Awards & Scholarships
 ------
