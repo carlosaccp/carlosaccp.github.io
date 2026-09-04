@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Carlos, a PhD student in Statistics at Columbia University. Prior to my PhD, I completed an MSc in Mathematical Sciences at the University of Oxford and a BSc at Imperial College London, also in Mathematics. 
+I'm Carlos, a PhD student in Statistics at [Columbia University](https://www.columbia.edu/). Prior to my PhD, I completed an MSc in Mathematical Sciences at the [University of Oxford](https://www.ox.ac.uk/) and a BSc at [Imperial College London](http://imperial.ac.uk/), also in Mathematics. 
 
 Research
 ======

@@ -62,8 +62,6 @@ Awards & Scholarships
 - Aug 2024: [Brown University](https://www.brown.edu/) Graduate School Fellowship
 - May 2023: Imperial College Faculty of Natural Sciences [Dean's Fund Grant](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/) for the 43rd conference on Stochastic Processes and their Applications (SPA 2023)
 - Mar 2022: Turing Scheme Grant for Research Internship at the [Massachusetts Institute of Technology](https://www.mit.edu/)
-- Sep 2022: Dean's List at [Imperial College London](https://www.imperial.ac.uk/)
-- Jul 2019: Nexalia Award & Sir Roger Fry Scholarship at [King's College Madrid](https://www.kingscollegeschools.org/)
 
 Volunteering & Service
 ------
