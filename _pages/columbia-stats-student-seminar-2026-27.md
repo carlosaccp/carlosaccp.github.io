@@ -11,7 +11,7 @@ I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [D
 
 ## Seminar Schedule
 
-### September 16, 2026: [Cindy Rush](/columbia-stats-student-seminar-2026-27/sept-16-26/) 
+### September 16, 2026: [Cindy Rush]([/columbia-stats-student-seminar-2026-27/sept-16-26/](https://www.columbia.edu/~cgr2130/)) 
 #### Title: Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression.
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -22,5 +22,5 @@ In this talk I will demonstrate how the spectrum of a high-dimensional design co
 
 **Food:** Massawa
 
-### September 23, 2026: [Jeremy Shen](/columbia-stats-student-seminar-2026-27/sept-23-26/)
+### September 23, 2026: [Jeremy Shen](https://jeremyshen.com/)
 #### Title: TBA
