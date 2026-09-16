@@ -29,7 +29,7 @@ I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [D
 # Seminar Schedule
 
 ## September 16, 2026: [Cindy Rush](https://www.columbia.edu/~cgr2130/)
-### <span class="title-label">Title:</span> Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression
+### Title: <span style="font-weight: normal;">Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression</span>
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
@@ -43,7 +43,7 @@ In this talk I will demonstrate how the spectrum of a high-dimensional design co
 ---
 
 ## September 23, 2026: [Jeremy Shen](https://jeremyshen.com/)
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
@@ -55,12 +55,12 @@ TBA
 ---
 
 ## September 30, 2026: TBA
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
 ## October 7, 2026: [Ivan Corwin](https://www.math.columbia.edu/~corwin/)
-### <span class="title-label">Title:</span> Extreme Diffusion
+### Title: <span style="font-weight: normal;">Extreme Diffusion</span>
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
@@ -72,12 +72,12 @@ Two hundred years ago, Robert Brown observed the statistics of the motion of gra
 ---
 
 ## October 14, 2026: TBA
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
 ## October 21, 2026: [Christopher Harshaw](https://www.chrisharshaw.com/)
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
@@ -89,29 +89,29 @@ TBA
 ---
 
 ## October 28, 2026: TBA
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
 ## November 4, 2026: TBA
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
 ## November 11, 2026: TBA
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
 ## November 18, 2026: TBA
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
 ## December 2, 2026: TBA
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
 ## December 9, 2026: TBA
-### <span class="title-label">Title:</span> TBA
+### Title: <span style="font-weight: normal;">TBA</span>
