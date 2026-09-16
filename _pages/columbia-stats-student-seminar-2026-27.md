@@ -35,8 +35,6 @@ TBA
 
 </details>
 
-**Food:** TBA
-
 ---
 
 ## September 30, 2026
@@ -44,7 +42,7 @@ TBA
 
 ---
 
-## October 7, 2026: Ivan Corwin
+## October 7, 2026: [Ivan Corwin](https://www.math.columbia.edu/~corwin/)
 ### Title: TBA
 
 <details>
@@ -53,8 +51,6 @@ TBA
 TBA
 
 </details>
-
-**Food:** TBA
 
 ---
 
@@ -63,7 +59,7 @@ TBA
 
 ---
 
-## October 21, 2026: Chris Harshaw
+## October 21, 2026: [Chris Harshaw](https://www.chrisharshaw.com/)
 ### Title: TBA
 
 <details>
@@ -72,8 +68,6 @@ TBA
 TBA
 
 </details>
-
-**Food:** TBA
 
 ---
 
