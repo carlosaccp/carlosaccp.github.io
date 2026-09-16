@@ -9,10 +9,10 @@ author_profile: true
 
 I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [David Metrick](https://stat.columbia.edu/people/name/david-metrick/). The seminar takes place every Wednesday from 12PM-1PM in the Statistics department. If you're interested in attending or giving a talk, please feel free to reach out via email. 
 
-## Seminar Schedule
+# Seminar Schedule
 
-### September 16, 2026: [Cindy Rush]([/columbia-stats-student-seminar-2026-27/sept-16-26/](https://www.columbia.edu/~cgr2130/)) 
-#### Title: Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression.
+## September 16, 2026: [Cindy Rush]([/columbia-stats-student-seminar-2026-27/sept-16-26/](https://www.columbia.edu/~cgr2130/)) 
+### Title: Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression.
 <details>
 <summary><strong>Abstract</strong></summary>
 
@@ -22,5 +22,5 @@ In this talk I will demonstrate how the spectrum of a high-dimensional design co
 
 **Food:** Massawa
 
-### September 23, 2026: [Jeremy Shen](https://jeremyshen.com/)
-#### Title: TBA
+## September 23, 2026: [Jeremy Shen](https://jeremyshen.com/)
+### Title: TBA
