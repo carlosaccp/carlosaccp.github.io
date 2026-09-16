@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+.abstract-toggle {
+  cursor: pointer;
+  transition: color 0.15s ease;
+}
+
+.abstract-toggle:hover {
+  color: #75AADB;
+  text-decoration-thickness: 2px;
+}
+</style>
+
 I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [David Metrick](https://stat.columbia.edu/people/name/david-metrick/). The seminar takes place every Wednesday from 12PM-1PM in the Statistics department. If you're interested in attending or giving a talk, please feel free to reach out via email.
 
 # Seminar Schedule
@@ -15,9 +27,9 @@ I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [D
 ### Title: Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression
 
 <details>
-<summary><u>Abstract</u></summary>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
 
-In this talk I will demonstrate how the spectrum of a high-dimensional design controls the best asymptotic risk achievable by convex regularization. For iid Gaussian designs, Celentano and Montanari (2022) established a related convex lower bound, but the spectral shape is then fixed by the sample-to-dimension ratio. We instead study right-rotationally invariant designs with an otherwise arbitrary limiting squared-singular-value distribution. Our main result shows that every estimator in a broad class of separable convex penalized least-squares procedures has asymptotic mean-squared error at least that of a corresponding Bayes message-passing estimator. The resulting lower bound depends on the full spectrum, not only on the sample-to-dimension ratio or average measurement strength. In particular, at fixed average measurement strength, a mean-preserving spread of the squared singular values worsens the best possible convex risk: weakly measured directions are more damaging than uly measured directions are beneficial. I will explain the main ideas behind this spectral comparison and how vector approximate message passing separates the effects of the signal prior from those of the design spectrum. This is joint work with Audrey Yang and Baichen Tan.
+In this talk I will demonstrate how the spectrum of a high-dimensional design controls the best asymptotic risk achievable by convex regularization. For iid Gaussian designs, Celentano and Montanari (2022) established a related convex lower bound, but the spectral shape is then fixed by the sample-to-dimension ratio. We instead study right-rotationally invariant designs with an otherwise arbitrary limiting squared-singular-value distribution. Our main result shows that every estimator in a broad class of separable convex penalized least-squares procedures has asymptotic mean-squared error at least that of a corresponding Bayes message-passing estimator. The resulting lower bound depends on the full spectrum, not only on the sample-to-dimension ratio or average measurement strength. In particular, at fixed average measurement strength, a mean-preserving spread of the squared singular values worsens the best possible convex risk: weakly measured directions are more damaging than strongly measured directions are beneficial. I will explain the main ideas behind this spectral comparison and how vector approximate message passing separates the effects of the signal prior from those of the design spectrum. This is joint work with Audrey Yang and Baichen Tan.
 
 </details>
 
@@ -29,7 +41,7 @@ In this talk I will demonstrate how the spectrum of a high-dimensional design co
 ### Title: TBA
 
 <details>
-<summary><u>Abstract</u></summary>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
 
 TBA
 
@@ -46,7 +58,7 @@ TBA
 ### Title: Extreme Diffusion
 
 <details>
-<summary><u>Abstract</u></summary>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
 
 Two hundred years ago, Robert Brown observed the statistics of the motion of grains of pollen in water. It took almost one hundred years for Einstein and others to develop an effective theory describing this motion as that of a random walker. In this talk, I will challenge a key implication of this well established theory. When studying systems with very large numbers of particles diffusing together, I will argue that the Einstein random walk theory breaks down when it comes to predicting the statistical behavior of extreme particles—those that move the fastest and furthest in the system. In its place, I will describe a new theory of extreme diffusion which captures the effect of the hidden environment in which particles diffuse together and allows us to interrogate that environment by studying extreme particles. I will highlight one piece of mathematics that led us to develop this theory—a non-commutative binomial theorem—and hint at other connections to integrable probability, quantum integrable systems and stochastic PDEs.
 
@@ -63,7 +75,7 @@ Two hundred years ago, Robert Brown observed the statistics of the motion of gra
 ### Title: TBA
 
 <details>
-<summary><u>Abstract</u></summary>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
 
 TBA
 
