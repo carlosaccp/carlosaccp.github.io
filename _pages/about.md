@@ -16,6 +16,6 @@ Broadly speaking, I am interested in Analysis and Probability in interaction wit
 
 I wrote my MSc dissertation on the optimal matching problem and its connection to optimal transport; I was very lucky to be supervised by [Prof. James Martin](https://www.stats.ox.ac.uk/~martin/). Before this, I wrote my BSc project on importance sampling, where I was fortunate to work alongside [Prof. Ömer Deniz Akyildiz](https://akyildiz.me/).
 
-Research
+Contact
 ======
 I am reachable via email at cc5415 (at) columbia (dot) edu
