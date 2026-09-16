@@ -7,12 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [David Metrick](https://stat.columbia.edu/people/name/david-metrick/). The seminar takes place every Wednesday from 12PM-1PM in the Statistics department. If you're interested in attending or giving a talk, please feel free to reach out via email. 
+I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [David Metrick](https://stat.columbia.edu/people/name/david-metrick/). The seminar takes place every Wednesday from 12PM-1PM in the Statistics department. If you're interested in attending or giving a talk, please feel free to reach out via email.
 
 # Seminar Schedule
 
-## September 16, 2026: [Cindy Rush]([/columbia-stats-student-seminar-2026-27/sept-16-26/](https://www.columbia.edu/~cgr2130/)) 
-### Title: Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression.
+## September 16, 2026: [Cindy Rush](https://www.columbia.edu/~cgr2130/)
+### Title: Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression
+
 <details>
 <summary><strong>Abstract</strong></summary>
 
@@ -22,5 +23,84 @@ In this talk I will demonstrate how the spectrum of a high-dimensional design co
 
 **Food:** Massawa
 
+---
+
 ## September 23, 2026: [Jeremy Shen](https://jeremyshen.com/)
 ### Title: TBA
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+TBA
+
+</details>
+
+**Food:** TBA
+
+---
+
+## September 30, 2026
+### Speaker: TBA
+
+---
+
+## October 7, 2026: Ivan Corwin
+### Title: TBA
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+TBA
+
+</details>
+
+**Food:** TBA
+
+---
+
+## October 14, 2026
+### Speaker: TBA
+
+---
+
+## October 21, 2026: Chris Harshaw
+### Title: TBA
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+TBA
+
+</details>
+
+**Food:** TBA
+
+---
+
+## October 28, 2026
+### Speaker: TBA
+
+---
+
+## November 4, 2026
+### Speaker: TBA
+
+---
+
+## November 11, 2026
+### Speaker: TBA
+
+---
+
+## November 18, 2026
+### Speaker: TBA
+
+---
+
+## December 2, 2026
+### Speaker: TBA
+
+---
+
+## December 9, 2026
+### Speaker: TBA
