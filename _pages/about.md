@@ -18,4 +18,4 @@ I wrote my MSc dissertation on the optimal matching problem and its connection t
 
 Contact
 ======
-I am reachable via email at cc5415 (at) columbia (dot) edu
+I am reachable via email at cc5415 (at) columbia (dot) edu.
