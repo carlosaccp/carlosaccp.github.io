@@ -17,6 +17,11 @@ author_profile: true
   color: #75AADB;
   text-decoration-thickness: 2px;
 }
+
+.title-label {
+  font-weight: normal;
+  color: #777;
+}
 </style>
 
 I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [David Metrick](https://stat.columbia.edu/people/name/david-metrick/). The seminar takes place every Wednesday from 12PM-1PM in the Statistics department. If you're interested in attending or giving a talk, please feel free to reach out via email.
@@ -24,7 +29,7 @@ I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [D
 # Seminar Schedule
 
 ## September 16, 2026: [Cindy Rush](https://www.columbia.edu/~cgr2130/)
-### Title: Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression
+### <span class="title-label">Title:</span> Spectral Geometry and the Limits of Convex Regularization in High-Dimensional Regression
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
@@ -38,7 +43,7 @@ In this talk I will demonstrate how the spectrum of a high-dimensional design co
 ---
 
 ## September 23, 2026: [Jeremy Shen](https://jeremyshen.com/)
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
@@ -50,12 +55,12 @@ TBA
 ---
 
 ## September 30, 2026: TBA
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
 
 ---
 
 ## October 7, 2026: [Ivan Corwin](https://www.math.columbia.edu/~corwin/)
-### Title: Extreme Diffusion
+### <span class="title-label">Title:</span> Extreme Diffusion
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
@@ -67,12 +72,12 @@ Two hundred years ago, Robert Brown observed the statistics of the motion of gra
 ---
 
 ## October 14, 2026: TBA
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
 
 ---
 
 ## October 21, 2026: [Christopher Harshaw](https://www.chrisharshaw.com/)
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
@@ -84,29 +89,29 @@ TBA
 ---
 
 ## October 28, 2026: TBA
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
 
 ---
 
 ## November 4, 2026: TBA
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
 
 ---
 
 ## November 11, 2026: TBA
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
 
 ---
 
 ## November 18, 2026: TBA
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
 
 ---
 
 ## December 2, 2026: TBA
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
 
 ---
 
 ## December 9, 2026: TBA
-### Title: TBA
+### <span class="title-label">Title:</span> TBA
