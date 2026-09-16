@@ -43,12 +43,12 @@ TBA
 ---
 
 ## October 7, 2026: [Ivan Corwin](https://www.math.columbia.edu/~corwin/)
-### Title: TBA
+### Title: Extreme Diffusion
 
 <details>
 <summary><strong>Abstract</strong></summary>
 
-TBA
+Two hundred years ago, Robert Brown observed the statistics of the motion of grains of pollen in water. It took almost one hundred years for Einstein and others to develop an effective theory describing this motion as that of a random walker. In this talk, I will challenge a key implication of this well established theory. When studying systems with very large numbers of particles diffusing together, I will argue that the Einstein random walk theory breaks down when it comes to predicting the statistical behavior of extreme particles—those that move the fastest and furthest in the system. In its place, I will describe a new theory of extreme diffusion which captures the effect of the hidden environment in which particles diffuse together and allows us to interrogate that environment by studying extreme particles. I will highlight one piece of mathematics that led us to develop this theory—a non-commutative binomial theorem—and hint at other connections to integrable probability, quantum integrable systems and stochastic PDEs.
 
 </details>
 
@@ -59,7 +59,7 @@ TBA
 
 ---
 
-## October 21, 2026: [Chris Harshaw](https://www.chrisharshaw.com/)
+## October 21, 2026: [Christopher Harshaw](https://www.chrisharshaw.com/)
 ### Title: TBA
 
 <details>
