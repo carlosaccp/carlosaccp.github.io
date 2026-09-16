@@ -49,8 +49,8 @@ TBA
 
 ---
 
-## September 30, 2026
-### Speaker: TBA
+## September 30, 2026: TBA
+### Title: TBA
 
 ---
 
@@ -66,8 +66,8 @@ Two hundred years ago, Robert Brown observed the statistics of the motion of gra
 
 ---
 
-## October 14, 2026
-### Speaker: TBA
+## October 14, 2026: TBA
+### Title: TBA
 
 ---
 
@@ -83,30 +83,30 @@ TBA
 
 ---
 
-## October 28, 2026
-### Speaker: TBA
+## October 28, 2026: TBA
+### Title: TBA
 
 ---
 
-## November 4, 2026
-### Speaker: TBA
+## November 4, 2026: TBA
+### Title: TBA
 
 ---
 
-## November 11, 2026
-### Speaker: TBA
+## November 11, 2026: TBA
+### Title: TBA
 
 ---
 
-## November 18, 2026
-### Speaker: TBA
+## November 18, 2026: TBA
+### Title: TBA
 
 ---
 
-## December 2, 2026
-### Speaker: TBA
+## December 2, 2026: TBA
+### Title: TBA
 
 ---
 
-## December 9, 2026
-### Speaker: TBA
+## December 9, 2026: TBA
+### Title: TBA
