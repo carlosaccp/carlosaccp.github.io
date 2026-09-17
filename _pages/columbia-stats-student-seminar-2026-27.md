@@ -46,8 +46,9 @@ In this talk I will demonstrate how the spectrum of a high-dimensional design co
 ### Title: <span style="font-weight: normal;">Three Statistical Problems in Finance</span>
 
 <details>
-<summary class="abstract-toggle"><u>We introduce three high-level statistical problems in quantitative finance. These problems will be motivated by tracing our roots back to modern portfolio theory along with its main economic and statistical critiques. For each of the problems, we will sketch approaches to its modeling, and highlight particularities that make the modeling process different from other more commonly-discussed applications of statistics. The contents of this talk will be based on public domain work.
+<summary class="abstract-toggle"><u>Abstract
 </u></summary>
+We introduce three high-level statistical problems in quantitative finance. These problems will be motivated by tracing our roots back to modern portfolio theory along with its main economic and statistical critiques. For each of the problems, we will sketch approaches to its modeling, and highlight particularities that make the modeling process different from other more commonly-discussed applications of statistics. The contents of this talk will be based on public domain work.
 </details>
 
 **Food:** Han Dynasty
