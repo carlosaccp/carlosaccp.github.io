@@ -88,8 +88,17 @@ TBA
 
 ---
 
-## October 28, 2026: TBA
-### Title: <span style="font-weight: normal;">TBA</span>
+## October 28, 2026: Alan Gelfand
+### Title: <span style="font-weight: normal;">Spatial and Spatio-temporal Modeling for Beta Diversity</span>
+
+<details>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
+
+Turnover, or change in the composition of species over space and time, is one of the primary ways to define beta diversity. Inferring what factors impact beta diversity is important not only for understanding biodiversity processes but also for conservation planning. A popular approach to understanding the drivers of compositional turnover is generalized dissimilarity modeling (GDM). However, the current GDM approach has several limitations. We provide an alternative approach that remedies these issues. In particular, we propose a model with a flexible mean function, complex spatial and spatio-temporal random effects that capture dependence unaccounted for by explanatory variables, and heterogeneous variance structure. Further, these features are offered in a model that can handle a large incidence of total dissimilarity through “1-inflation.” Such inflation would be expected in highly biodiverse areas with steep turnover gradients in space and time.
+
+The models are implemented in a Bayesian framework, employing hierarchical specifications to yield full regression and spatial predictive inference, both with associated uncertainties. We illustrate the approach by examining dissimilarity in plant abundance surveys from the Greater Cape Floristic Region (GCFR) of South Africa. We model both at the species scale and the family scale, selecting the best model using out-of-sample predictive performance. Notably, the spatial random effects play a more important role in the modeling than all of the environmental variables. (This is joint work with Phil White, Henry Frye, Jasper Slingsby, and John Silander.)
+
+</details>
 
 ---
 
