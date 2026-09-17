@@ -90,7 +90,7 @@ TBA
 
 ---
 
-## October 28, 2026: [Alan Gelfand](https://stat.duke.edu/research/gelfand)
+## October 28, 2026: [Alan Gelfand](https://stat.duke.edu/research/gelfand) (Duke)
 ### Title: <span style="font-weight: normal;">Spatial and Spatio-temporal Modeling for Beta Diversity</span>
 
 <details>
