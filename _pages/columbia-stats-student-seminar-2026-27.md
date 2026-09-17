@@ -55,7 +55,7 @@ We introduce three high-level statistical problems in quantitative finance. Thes
 
 ---
 
-## September 30, 2026: TBA
+## September 30, 2026: [Steven Campbell](https://www.stevenacampbell.com/)
 ### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
