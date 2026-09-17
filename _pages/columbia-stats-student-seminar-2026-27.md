@@ -52,6 +52,8 @@ TBA
 
 </details>
 
+**Food:** Han Dynasty
+
 ---
 
 ## September 30, 2026: TBA
