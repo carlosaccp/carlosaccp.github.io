@@ -78,12 +78,14 @@ Two hundred years ago, Robert Brown observed the statistics of the motion of gra
 ---
 
 ## October 21, 2026: [Christopher Harshaw](https://www.chrisharshaw.com/)
-### Title: <span style="font-weight: normal;">TBA</span>
+### Title: <span style="font-weight: normal;">Minimax Rates for Estimating Causal Effects in Network Experiments</span>
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
 
-TBA
+While a growing literature has investigated statistical methods for network experiments, optimal rates of estimation remains a largely open question. Unlike the mature efficiency theory developed within the iid super-population framework, the design based framework (where treatment is the only source of randomness) is generally lacking in statistical lower bounds. For example, we are not aware of work which directly establishes minimax rates of ATE estimation even in the no-interference setting. A central challenge is that a statistical lower bound for randomized experiments should incorporate not only the optimal choice of estimator, but also the optimal choice of the experimental design.
+
+In this paper, we study minimax rates of estimation in network experiments, where optimality is with respect to both the choice of estimator and design. We develop information theoretic lower bounds which depend on both the underlying network and the causal effect, thru the conflict graph introduced by Kandiros et al. For many networks, these lower bounds match the upper bounds obtained by the Conflict Graph Design of Kandiros et. al, establishing the minimax rate of estimation for these networks. However, the upper and lower bounds do not match for all networks. We conjecture that this gap reflects an issue of computational complexity in the following sense: the exact minimax rate of estimation may be NP-Hard to approximate in general.
 
 </details>
 
