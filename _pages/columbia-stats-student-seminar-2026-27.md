@@ -43,13 +43,11 @@ In this talk I will demonstrate how the spectrum of a high-dimensional design co
 ---
 
 ## September 23, 2026: [Jeremy Shen](https://jeremyshen.com/)
-### Title: <span style="font-weight: normal;">TBA</span>
+### Title: <span style="font-weight: normal;">Three Statistical Problems in Finance</span>
 
 <details>
-<summary class="abstract-toggle"><u>Abstract</u></summary>
-
-TBA
-
+<summary class="abstract-toggle"><u>We introduce three high-level statistical problems in quantitative finance. These problems will be motivated by tracing our roots back to modern portfolio theory along with its main economic and statistical critiques. For each of the problems, we will sketch approaches to its modeling, and highlight particularities that make the modeling process different from other more commonly-discussed applications of statistics. The contents of this talk will be based on public domain work.
+</u></summary>
 </details>
 
 **Food:** Han Dynasty
