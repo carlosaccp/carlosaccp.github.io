@@ -56,7 +56,15 @@ We introduce three high-level statistical problems in quantitative finance. Thes
 ---
 
 ## September 30, 2026: [Steven Campbell](https://www.stevenacampbell.com/)
-### Title: <span style="font-weight: normal;">TBA</span>
+### Title: <span style="font-weight: normal;">Statistical Embeddings and Sequential Inference for Win-Martingales</span>
+
+<details>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
+<p>An evolving probability for a binary event is naturally modeled as a bounded (so-called “win-”) martingale. Motivated by prediction markets and recent work on Aldous’ “most exciting game,” we consider two questions. Can a given win-martingale be realized as the exact Bayesian posterior of a sequential experiment? And, if observing the process is costly, when should a decision maker stop and make a prediction?</p>
+
+<p>We answer both questions for a broad class of martingale diffusions with separable volatility. We construct an explicit binary diffusion experiment whose posterior has the prescribed dynamics and show that the optimal strategy for a large class of sequential decision problems is to stop and predict according to two time-dependent thresholds. For this class of problems, we establish regularity and a unique integral equation characterization of the resulting stopping boundaries, and illustrate how the rate of information arrival can produce shrinking, expanding, or nonmonotone continuation regions. This is joint work with Karl Kristian Engelund (University of Copenhagen.)</p>
+
+</details>
 
 **Food:** Dig Inn
 
