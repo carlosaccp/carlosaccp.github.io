@@ -81,6 +81,7 @@ In the first part of the talk, I will discuss the robustness of mean-field varia
 This talk is based on joint work with Bohan Wu, Alberto González-Sanz, Marcel Nutz, Sinho Chewi, Binghe Zhu, and Aram Pooladian.</p>
 </details>
 
+**Food:** Claire's Kitchen Café
 ---
 
 ## October 14, 2026: [Ivan Corwin](https://www.math.columbia.edu/~corwin/), [Chris Harshaw](https://www.chrisharshaw.com/), [Marcel Nutz](https://www.marcelnutz.com/), [Tian Zheng](https://sites.stat.columbia.edu/tzheng/author/tian-zheng/)
