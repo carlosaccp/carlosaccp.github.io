@@ -70,22 +70,30 @@ We introduce three high-level statistical problems in quantitative finance. Thes
 
 ---
 
-## October 7, 2026: [Ivan Corwin](https://www.math.columbia.edu/~corwin/)
-### Title: <span style="font-weight: normal;">Extreme Diffusion</span>
+## October 7, 2026: [Shunan Sheng](https://scholar.google.com/citations?user=GdfBESAAAAAJ&hl=en)
+### Title: <span style="font-weight: normal;">Stability, instability, and extensions of variational inference</span>
 
 <details>
 <summary class="abstract-toggle"><u>Abstract</u></summary>
-Two hundred years ago, Robert Brown observed the statistics of the motion of grains of pollen in water. It took almost one hundred years for Einstein and others to develop an effective theory describing this motion as that of a random walker. In this talk, I will challenge a key implication of this well established theory. When studying systems with very large numbers of particles diffusing together, I will argue that the Einstein random walk theory breaks down when it comes to predicting the statistical behavior of extreme particles—those that move the fastest and furthest in the system. In its place, I will describe a new theory of extreme diffusion which captures the effect of the hidden environment in which particles diffuse together and allows us to interrogate that environment by studying extreme particles. I will highlight one piece of mathematics that led us to develop this theory—a non-commutative binomial theorem—and hint at other connections to integrable probability, quantum integrable systems and stochastic PDEs.
+<p>Variational inference (VI) is a popular alternative to Markov chain Monte Carlo (MCMC) for approximating high-dimensional target distributions. At its core, VI approximates a high-dimensional target distribution—typically specified via an unnormalized density—by a simpler variational family. Despite its empirical success, the theoretical properties of variational inference have only recently begun to be understood.
+In the first part of the talk, I will discuss the robustness of mean-field variational inference (MFVI) through the lens of optimal transport. We aim to answer the following question: How sensitive are variational solutions to small perturbations of the target measure arising from changes in the underlying statistical model, likelihood, or prior? The main message is that stability depends sharply on the geometry of the target distribution. When the target is strongly log-concave, MFVI is quantitatively stable under perturbations of the target measure, yielding robustness guarantees for approximate Bayesian inference. In contrast, even simple non-log-concave targets, such as mixtures of two Gaussians, can cause MFVI to exhibit an instability known as mode collapse, revealing a fundamental lack of robustness to multimodality.</p>
+<p>In the second part of the talk, I will present our work on the statistical and computational theory of a class of structured variational inference methods in which the variational family consists of all star-shaped distributions. We establish quantitative approximation guarantees and provide a polynomial-time algorithm for solving the VI problem when the target distribution is strongly log-concave. We also discuss concrete examples, including generalized linear models with Gaussian likelihoods.
+This talk is based on joint work with Bohan Wu, Alberto González-Sanz, Marcel Nutz, Sinho Chewi, Binghe Zhu, and Aram Pooladian.</p>
 </details>
 
 ---
 
-## October 14, 2026: TBA
-### Title: <span style="font-weight: normal;">TBA</span>
+## October 14, 2026: [Ivan Corwin](https://www.math.columbia.edu/~corwin/), [Chris Harshaw](https://www.chrisharshaw.com/), [Marcel Nutz](https://www.marcelnutz.com/), [Tian Zheng](https://sites.stat.columbia.edu/tzheng/author/tian-zheng/)
+### Title: <span style="font-weight: normal;">Panel on Stat PhD and AI</span>
+
+<details>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
+An interactive discussion on what our Stat PhD should look like in the presence of AI.
+</details>
 
 ---
 
-## October 21, 2026: [Christopher Harshaw](https://www.chrisharshaw.com/)
+## October 21, 2026: [Chris Harshaw](https://www.chrisharshaw.com/)
 ### Title: <span style="font-weight: normal;">Minimax Rates for Estimating Causal Effects in Network Experiments</span>
 
 <details>
@@ -107,7 +115,7 @@ Network experiments are used throughout the social and medical sciences to inves
 
 ---
 
-## November 4, 2026: TBA
+## November 4, 2026: [Genevera Allen](https://genevera-allen.com/)
 ### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
