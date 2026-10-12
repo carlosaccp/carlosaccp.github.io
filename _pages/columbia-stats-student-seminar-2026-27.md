@@ -117,12 +117,12 @@ Network experiments are used throughout the social and medical sciences to inves
 
 ---
 
-## November 4, 2026: [Genevera Allen](https://genevera-allen.com/)
+## November 4, 2026: [Anirban Nath](https://cancerdynamics.columbia.edu/anirban_nath)
 ### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
-## November 11, 2026: TBA
+## November 11, 2026: [Ioannis Karatzas](https://www.math.columbia.edu/~ik/)
 ### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
