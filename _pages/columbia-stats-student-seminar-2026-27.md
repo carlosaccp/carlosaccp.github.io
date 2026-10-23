@@ -107,6 +107,8 @@ An interactive discussion on what our Stat PhD should look like in the presence 
 Network experiments are used throughout the social and medical sciences to investigate causal effects under the presence of interference. While a large body of work has developed improved statistical procedures, the fundamental limits of statistical estimation in these settings is less well understood. In this talk, I will introduce a design-based theory of minimax risk for network experiments under an arbitrary neighborhood interference model. Our notion of minimax risk describes the optimal precision among all statistical procedures for investigating a particular causal effect on the observed interference network. We show that the minimax risk is a function of the corresponding conflict graph, which captures inherent unobservability of estimand-relevant potential outcomes given the observed interference network. Our main contribution is a series of upper and lower bounds on the minimax rate in terms of local and global connectivity properties of the conflict graph. To illustrate their utility, we apply these general results to obtain minimax analyses for two commonly studied effects: the direct treatment effect and global average treatment effect.
 </details>
 
+**Food:** Milano Market
+
 ---
 
 ## October 28, 2026: [Alan Gelfand](https://stat.duke.edu/research/gelfand) (Duke)
@@ -127,7 +129,12 @@ Network experiments are used throughout the social and medical sciences to inves
 ---
 
 ## November 11, 2026: [Ioannis Karatzas](https://www.math.columbia.edu/~ik/)
-### Title: <span style="font-weight: normal;">TBA</span>
+### Title: <span style="font-weight: normal;">The Lacunary/Hereditary Laws of Large Numbers</span>
+
+<details>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
+The celebrated theorem of Komlos (1967) establishes L^1-boundedness as a sufficient condition for a sequence of measurable functions on a probability space to contain a subsequence (“lacunary” character) along which, and along whose every further subsequence ("hereditarily"), the Cesaro averages converge to a "randomized mean" in the spirit of the Strong law of Large Numbers. We provide conditions not only sufficient, but also necessary, for this result; as well as for the hereditary analogues of the Weak Law of Large Numbers, and of the Hsu-Robbins-Erdos Law of Large Numbers.  Joint work with Istvan Berkes (Budapest) and Walter Schachermayer (Vienna).
+</details>
 
 ---
 
