@@ -121,6 +121,8 @@ Network experiments are used throughout the social and medical sciences to inves
 <p>The models are implemented in a Bayesian framework, employing hierarchical specifications to yield full regression and spatial predictive inference, both with associated uncertainties. We illustrate the approach by examining dissimilarity in plant abundance surveys from the Greater Cape Floristic Region (GCFR) of South Africa. We model both at the species scale and the family scale, selecting the best model using out-of-sample predictive performance. Notably, the spatial random effects play a more important role in the modeling than all of the environmental variables. (This is joint work with Phil White, Henry Frye, Jasper Slingsby, and John Silander.)</p>
 </details>
 
+**Food:** Moon Kee Restaurant
+
 ---
 
 ## November 4, 2026: [Anirban Nath](https://cancerdynamics.columbia.edu/anirban_nath)
