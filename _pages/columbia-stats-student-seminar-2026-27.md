@@ -126,7 +126,12 @@ Network experiments are used throughout the social and medical sciences to inves
 ---
 
 ## November 4, 2026: [Anirban Nath](https://cancerdynamics.columbia.edu/anirban_nath)
-### Title: <span style="font-weight: normal;">TBA</span>
+### Title: <span style="font-weight: normal;">Weighted conformal clustering</span>
+
+<details>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
+Clustering is a central tool for discovering latent structure in unlabeled data; yet modern clustering pipelines often end with a hard assignment of each observation to a cluster without rigorous measures of assignment uncertainty. We propose a novel weighted conformal approach for constructing valid confidence sets for cluster labels. The key difficulty is that the labels available for calibration are not observed ground-truth labels, but synthetic labels produced by a data-dependent clustering algorithm. Our method develops a conformal inference algorithm that corrects the resulting mismatch with the latent target labels through weights by formulating conformal clustering as a conditional label-distribution shift problem. We first derive an oracle procedure that attains finite-sample marginal coverage and then develop a computationally tractable and implementable version using estimated conditional label probabilities and novel augmented calibration. We show that the coverage of the estimated-weight procedure depends on the estimator, giving an explicit bound on the loss relative to the nominal level. Empirical studies demonstrate that the proposed weighted approach offers improvements over the recently proposed split conformal clustering procedure in terms of informative confidence set size, especially in nonlinear and high-dimensional clustering applications.
+</details>
 
 ---
 
@@ -140,15 +145,15 @@ The celebrated theorem of Komlos (1967) establishes L^1-boundedness as a suffici
 
 ---
 
-## November 18, 2026: TBA
+## November 18, 2026: Shubhangi Ghosh
 ### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
-## December 2, 2026: TBA
+## December 2, 2026: Graeme Baker
 ### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
-## December 9, 2026: TBA
+## December 9, 2026: Ruchira Ray
 ### Title: <span style="font-weight: normal;">TBA</span>
