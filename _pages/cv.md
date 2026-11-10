@@ -35,9 +35,15 @@ A full list of publications and articles is available [here](https://carlosaccp.
 
 Talks & Presentations
 ------
-- Sep 2026: "Fluctuations in sparse regularized optimal transport", SEIO 2026 conference.
-- Jul 2026: "Sharp asymptotics for regularized optimal transport", Simons Center for Geometry and Physics (Stony Brook).
-- Jun 2026: "Sharp asymptotics for regularized optimal transport", IST Lisbon.
+- Jan 2027: "First and second order fluctuations in sparse optimal transport", CUNEF, Madrid (upcoming).
+- Nov 2026: "First and second order fluctuations in sparse optimal transport", Imperial College London (upcoming).
+- Nov 2026: "On the proof of the KLS conjecture", Columbia University, Markov Diffusion Processes Seminar.
+- Nov 2026: "The exponential time hypothesis and random SAT", Columbia University, Probability Learning Seminar (upcoming).
+- Nov 2026: "Yang-Mills, constructive QFT, and Balaban's method", Columbia University, Probability Learning Seminar.
+- Oct 2026: "Robust barycenters for distributional data", University of Valladolid, Statistics & OR Seminar.
+- Sep 2026: "First and second order fluctuations in sparse optimal transport", SEIO 2026 conference.
+- Jul 2026: "Sharp asymptotics for regularised optimal transport", Simons Center for Geometry and Physics (Stony Brook).
+- Jun 2026: "Sharp asymptotics for regularised optimal transport", IST Lisbon.
 - Jun 2025: "Sparse regularised optimal transport", SLMath (Berkeley).
 
 Conferences, Workshops & Summer schools
@@ -65,7 +71,8 @@ Awards & Scholarships
 
 Volunteering & Service
 ------
-- Sep 2026 - Jun 2026: Organiser of the Columbia Statistics Student Seminar. [Website](https://carlosaccp.github.io/columbia-stats-student-seminar-2026-27/)
+- Sep 2026 - Present Co-organiser of the joint Princeton/NYU/Columbia seminar. [Website](https://sites.google.com/princeton.edu/jointseminar/home)
+- Sep 2026 - Present: Organiser of the Columbia Statistics Student Seminar. [Website](https://carlosaccp.github.io/columbia-stats-student-seminar-2026-27/)
 - Apr 2026: Poster session organiser at Columbia's Workshop on Robust Statistics. [Website](https://statsworkshop.wixsite.com/robust-stats2026)
 - Aug 2023: Conference helper at the 43rd conference on Stochastic Processes and their Applications (SPA 2023).
 - Aug 2022 - Aug 2023: President of [Imperial College's Mathematics Society](https://www.imperialmathsoc.com/)
