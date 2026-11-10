@@ -96,6 +96,7 @@ An interactive discussion on what our Stat PhD should look like in the presence 
 **Food:** Chipotle
 
 **This week the seminar will be held in SSW room 903**
+
 ---
 
 ## October 21, 2026: [Chris Harshaw](https://www.chrisharshaw.com/)
@@ -147,6 +148,7 @@ The celebrated theorem of Komlos (1967) establishes L^1-boundedness as a suffici
 **Food:** Sapps
 
 **This week the seminar will be held in SSW room 903**
+
 ---
 
 ## November 18, 2026: [Shubhangi Ghosh](https://scholar.google.com/citations?user=R-_MEuoAAAAJ&hl=en)
