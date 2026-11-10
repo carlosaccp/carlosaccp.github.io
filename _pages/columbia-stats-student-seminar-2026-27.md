@@ -96,7 +96,6 @@ An interactive discussion on what our Stat PhD should look like in the presence 
 **Food:** Chipotle
 
 **This week the seminar will be held in SSW room 903**
-
 ---
 
 ## October 21, 2026: [Chris Harshaw](https://www.chrisharshaw.com/)
