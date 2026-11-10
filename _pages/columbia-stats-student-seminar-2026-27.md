@@ -133,6 +133,8 @@ Network experiments are used throughout the social and medical sciences to inves
 Clustering is a central tool for discovering latent structure in unlabeled data; yet modern clustering pipelines often end with a hard assignment of each observation to a cluster without rigorous measures of assignment uncertainty. We propose a novel weighted conformal approach for constructing valid confidence sets for cluster labels. The key difficulty is that the labels available for calibration are not observed ground-truth labels, but synthetic labels produced by a data-dependent clustering algorithm. Our method develops a conformal inference algorithm that corrects the resulting mismatch with the latent target labels through weights by formulating conformal clustering as a conditional label-distribution shift problem. We first derive an oracle procedure that attains finite-sample marginal coverage and then develop a computationally tractable and implementable version using estimated conditional label probabilities and novel augmented calibration. We show that the coverage of the estimated-weight procedure depends on the estimator, giving an explicit bound on the loss relative to the nominal level. Empirical studies demonstrate that the proposed weighted approach offers improvements over the recently proposed split conformal clustering procedure in terms of informative confidence set size, especially in nonlinear and high-dimensional clustering applications.
 </details>
 
+**Food:** Chipotle
+
 ---
 
 ## November 11, 2026: [Ioannis Karatzas](https://www.math.columbia.edu/~ik/)
@@ -143,17 +145,20 @@ Clustering is a central tool for discovering latent structure in unlabeled data;
 The celebrated theorem of Komlos (1967) establishes L^1-boundedness as a sufficient condition for a sequence of measurable functions on a probability space to contain a subsequence (“lacunary” character) along which, and along whose every further subsequence ("hereditarily"), the Cesaro averages converge to a "randomized mean" in the spirit of the Strong law of Large Numbers. We provide conditions not only sufficient, but also necessary, for this result; as well as for the hereditary analogues of the Weak Law of Large Numbers, and of the Hsu-Robbins-Erdos Law of Large Numbers.  Joint work with Istvan Berkes (Budapest) and Walter Schachermayer (Vienna).
 </details>
 
+**Food:** Sapps
+
+**This week the seminar will be held in SSW room 903**
 ---
 
-## November 18, 2026: Shubhangi Ghosh
+## November 18, 2026: [Shubhangi Ghosh](https://scholar.google.com/citations?user=R-_MEuoAAAAJ&hl=en)
 ### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
-## December 2, 2026: Graeme Baker
+## December 2, 2026: [Graeme Baker](https://www.graeme-baker.com/)
 ### Title: <span style="font-weight: normal;">TBA</span>
 
 ---
 
-## December 9, 2026: Ruchira Ray
+## December 9, 2026: [Ruchira Ray](https://rray123.github.io/)
 ### Title: <span style="font-weight: normal;">TBA</span>
