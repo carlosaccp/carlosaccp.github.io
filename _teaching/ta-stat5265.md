@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/ta-stat5265
 venue: "Columbia University, Department of Statistics"
-date: 20/01/2026 - Now
+date: 20/01/2026 - Present
 location: "New York, USA"
 ---
 
