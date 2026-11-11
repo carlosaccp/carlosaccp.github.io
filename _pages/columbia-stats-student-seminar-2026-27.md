@@ -152,7 +152,17 @@ The celebrated theorem of Komlos (1967) establishes L^1-boundedness as a suffici
 ---
 
 ## November 18, 2026: [Shubhangi Ghosh](https://scholar.google.com/citations?user=R-_MEuoAAAAJ&hl=en)
-### Title: <span style="font-weight: normal;">TBA</span>
+### Title: <span style="font-weight: normal;">Higher-order asymptotic framework for high-dimensional estimation</span>
+
+<details>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
+<p>The minimax framework has been one of the cornerstones of theoretical statistics. In our work, we demonstrate that numerous theoretical results within the classical minimax framework are inadequate in explaining empirical observations. In some instances, these minimax outcomes offer insights that contradict empirical findings. For example, in the sparse linear regression problem, although LASSO has been proven to be minimax optimal for the sparse linear regression problem, numerous empirical studies have shown its suboptimal performance across various signal-to-noise (SNR) levels. In this study, we aim to introduce an enhanced version of the minimax framework that not only elucidates these disparities but also offers more precise insights into the optimality of different estimators. Our novel approach has two distinctive components: (1) it integrates the signal-to-noise ratio into the construction of the parameter space. (2) It obtains accurate approximation of the minimax risk through a "higher-order asymptotic expansion framework". Our delicate analysis determines three distinct SNR regimes: low-SNR, medium-SNR, and high-SNR, wherein minimax optimal estimators exhibit markedly different behaviors. The new theory not only offers much better elaborations for empirical results, but also brings new insights to the estimation of sparse signals in noisy data. For instance, our approach demonstrates that in the low SNR, ridge regression surpasses all other estimators, even when the regression coefficients are sparse.</p>
+
+<p>We also studied eigenspace estimation in the high-dimensional Gaussian covariance model. We found something stronger than higher-order optimality: PCA is exactly minimax for leading eigenspaces at every sample size and dimension. PCA does not need the population eigenvalues, yet is optimal among all estimators allowed to know them. When PCA's risk does not vanish, changing estimators therefore cannot restore consistency; collecting more data can instead change the regime. For interior eigenspaces, however, exact optimality can fail. While the exact minimax risk still remains intractable, our refined analysis shows that, under our asymptotic conditions, even estimators knowing the population eigenvalues can improve on PCA's risk by only an exponentially small amount in the sample size. These results quantify how little scope remains for more complex nonlinear estimators, and clarify when a practitioner's resources are better directed toward data collection.</p>
+
+
+<p>This is joint work with Yilin Guo, Yihan He, Haolei Weng and Arian Maleki.</p>
+</details>
 
 ---
 
