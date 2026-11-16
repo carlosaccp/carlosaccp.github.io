@@ -152,7 +152,12 @@ The celebrated theorem of Komlos (1967) establishes L^1-boundedness as a suffici
 ---
 
 ## November 18, 2026: [Genevera Allen](https://genevera-allen.com/)
-### Title: <span style="font-weight: normal;">TBD</span>
+### Title: <span style="font-weight: normal;">Inference for Interpretable and Unsupervised Machine Learning</span>
+
+<details>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
+Machine learning (ML) techniques are routinely used to derive insights, drive business decisions, and make data-driven scientific discoveries. In many applications, these discoveries hinge not only on prediction accuracy, but on interpretations of fitted models and on patterns uncovered by unsupervised methods. But can we trust the insights and discoveries produced by interpretable ML and unsupervised ML? We first present results showing that such interpretations and unsupervised findings are often unreliable and substantially less stable than predictive performance. This motivates a basic question: can we combat this unreliability by developing statistical inference tools that quantify uncertainty in ML interpretations and unsupervised learning outputs? In this talk, we present two concrete examples. First, we develop valid, model-agnostic and distribution-free inference procedures for feature importance in supervised learning, providing uncertainty quantification for what a model deems "important." Second, we introduce inference for clustering, developing valid confidence sets for discovered cluster labels. Both approaches leverage ideas from conformal inference and adapt them to novel settings, offering practical tools to improve the reliability and trustworthiness of ML-driven insights.
+</details>
 
 **Food:** Sweetgreen
 
