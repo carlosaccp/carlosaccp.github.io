@@ -164,7 +164,13 @@ Machine learning (ML) techniques are routinely used to derive insights, drive bu
 ---
 
 ## December 2, 2026: [Graeme Baker](https://www.graeme-baker.com/)
-### Title: <span style="font-weight: normal;">TBA</span>
+### Title: <span style="font-weight: normal;">Traveling Waves in Rank-Based Markets</span>
+
+<details>
+<summary class="abstract-toggle"><u>Abstract</u></summary>
+Rank the companies in the US stock market by size, and plot size against rank: the resulting curve has kept roughly the same shape for decades. We begin with Atlas-type models, systems of Brownian particles whose drifts and volatilities depend on their rank. We explain the condition on the drifts under which such a system settles into a stationary shape, which is a traveling wave in log size. We then modify the model to allow for births and deaths of particles at rank-dependent rates. In the large system limit, the Atlas system is described by a conservation law, and births and deaths add a reaction term. The resulting reaction-diffusion equation admits traveling wave solutions when the reaction term is bistable. In US market data the Atlas drift condition fails, but the reaction term is bistable and the traveling wave of the reaction-diffusion equation tracks the observed curve. No background in finance is assumed. Based on joint work with Caroline Smyth (Columbia College Class of 2026).
+</details>
+
 
 ---
 
