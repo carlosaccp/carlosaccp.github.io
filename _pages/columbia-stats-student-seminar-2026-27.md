@@ -24,7 +24,7 @@ author_profile: true
 }
 </style>
 
-I will be organising the Columbia Stats Student Seminar in 2026/27, alongside [David Metrick](https://stat.columbia.edu/people/name/david-metrick/). The seminar takes place every Wednesday from 12PM-1PM in the Statistics department. If you're interested in attending or giving a talk, please feel free to reach out via email.
+I am an organiser of the Columbia Stats Student Seminar during the 2026/27 academic year, alongside [David Metrick](https://stat.columbia.edu/people/name/david-metrick/). The seminar takes place every Wednesday from 12PM-1PM in the Statistics department. If you're interested in attending or giving a talk, please feel free to reach out via email.
 
 # Seminar Schedule
 
