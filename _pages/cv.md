@@ -36,7 +36,7 @@ A full list of publications and articles is available [here](https://carlosaccp.
 Talks & Presentations
 ------
 - Jan 2027: "First and second order fluctuations in sparse optimal transport", CUNEF, Madrid (upcoming).
-- Nov 2026: "First and second order fluctuations in sparse optimal transport", Imperial College London (upcoming).
+- Nov 2026: "Sharp asymptotics for regularised optimal transport", [3rd Workshop on Gradient Flows for Sampling, Inference, and Learning](https://gradientflows.com/) (poster).
 - Nov 2026: "On the proof of the KLS conjecture", Columbia University, Markov Diffusion Processes Seminar (upcoming).
 - Nov 2026: "The exponential time hypothesis and random SAT", Columbia University, Probability Learning Seminar (upcoming).
 - Nov 2026: "Yang-Mills, constructive QFT, and Balaban's method", Columbia University, Probability Learning Seminar.
